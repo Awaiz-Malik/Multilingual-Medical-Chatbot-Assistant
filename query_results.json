@@ -1,0 +1,1172 @@
+{
+  "fixed_labse": {
+    "¿Cómo funciona la quimioterapia?": {
+      "response": {
+        "namespace": "fixed_labse",
+        "matches": [
+          {
+            "id": "6",
+            "score": 0.404207706,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "اپنی :عالمات کو منظم کرنے میں مدد فراہم کرتی ہیں، جیسے • )مشاورت (سائیکو تھراپی یا ٹاک تھراپی عالج کی اس شکل میں تربیت یافتہ ذہنی صحت کے پیشہ ور سے بات کرنا شامل ہے۔ ایک ساتھ مل کر، آپ اپنی پریشانی پر قابو پانے کے لیے کام کر سکتے ہیں۔ • ادویات ادویات اضطراب کی خرابیوں کا عالج نہیں کرتی ہیں لیکن عالمات کو دور کرنے میں مدد کر سکتی ہیں۔ صحت کی دیکھ بھال فراہم کرنے والے اضطراب کے لیے دوائیں لکھ سکتے ہیں۔ اضطراب کے عوارض سے نمٹنے کے لیے استعمال ہونے والی دوائیوں کی سب سے"
+            }
+          },
+          {
+            "id": "9",
+            "score": 0.396130532,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "عادات، جیسے ورزش، یوگا، یا مراقبہ جسمانی صحت کو بہتر بنانے اور اضطراب کو کم کرنے میں مدد کر سکتے ہیں۔ پکو کیا کرنا چاہیےاگر آپ کو لگتا ہے کہ آپ کو انگذائٹی ہے؟ صحت کی دیکھ بھال فراہم کرنے والے یا ڈاکٹر سے ملنے کے لیے مالقات کا وقت لیں۔ اس مالقات پر، آپ کا بنیادی نگہداشت کا ڈاکٹر دماغی صحت کی ابتدائی اسکریننگ کرے گا۔ وہاں سے، وہ آپ کو دماغی صحت کے ماہر کے پاس بھیج سکتے ہیں۔ اپنی دیکھ بھال میں شامل ہوں۔ اپنے عالمات کے بارے میں کھل کر بات کریں اور اپنے اختیارات کو"
+            }
+          },
+          {
+            "id": "12",
+            "score": 0.362115383,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "حاملہ ہونے کے بارے میں سوچ رہے ہیں، حاملہ ہیں، یا دودھ پال رہی ہیں، تو آپ کو اپنے ہیلتھ کیئر فراہم کنندہ سے کسی بھی دوائیوں کے بارے میں بات کرنی چاہیے جو آپ پریشانی یا اضطراب کے لیے لے رہی ہیں۔ کچھ دوائیں آپ کے غیر پیدائشی بچے کو متاثر کر سکتی ہیں، لیکن دماغی صحت کی حالتوں کا عالج نہ کیا جائے تو یہ بھی غیر پیدائشی بچے کو متاثر کر سکتا ہے۔ کچھ دوائیں ماں کے دودھ کے ذریعے بھی آپ کے بچے تک پہنچ سکتی ہیں۔ اپنے فراہم کنندہ سے اس بارے میں بات کریں"
+            }
+          }
+        ]
+      },
+      "time_ms": 1439.37
+    },
+    "اضطراب کیا ہے؟": {
+      "response": {
+        "namespace": "fixed_labse",
+        "matches": [
+          {
+            "id": "0",
+            "score": 0.471276402,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "Logos of HHS and U.S. Food & Drug Administration اضطراب کیا ہے؟ اضطراب کسی صورت حال یا کسی موقعے پر پریشانی، گبھراہٹ اور خوف کی کیفیت ہے۔ یہ ذہنی دبائو کے نتیجے میں پیدا ہونے واال معمول کا رد عمل ہے۔ اضطراب کام پر چیلینجنگ صورتحال میں ہشیار رہنے میں، امتحان کے وقت پڑھائی پر محنت کرنے میں، یا پھر اہم تقریر کے موقعے پر توجہ مرکوز کرنے میں آ پکی مدد کرتا ہے۔ عام طور پر، یہ آپکو کسی بھی صورت حال سے نمٹنے میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ"
+            }
+          },
+          {
+            "id": "1",
+            "score": 0.465284884,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "آپکی روز مرہ زندگی کو متاٴثر کرنے لگے تو یہ غیر فعال ہو سکتا ہے۔ اضطراب کا عارضہ کیا ہے؟ اضطراب کا مرض تب ہوتا ہے جب آپکی بڑھتی ہوئی پریشانی آپکی روزمرہ زندگی پر اثرانداز ہونے لگے جیسا کہ کام یا سکول جانے یا دوستوں اور خاندان کے ساتھ وقت گزارنے میں رکاوٹ ہو۔ اضطراب کا مرض سنگین ذہنی بیماری ہے۔ اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں تقریبا چالیس ملین امریکیوں کو متاثر کرتا ہے۔ عورتوں کو زندگی بھر میں یہ مرض پیدا ہونے کے امکانات مردوں کے مقابلے میں دوگنے"
+            }
+          },
+          {
+            "id": "4",
+            "score": 0.430828035,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "عالمات کیا ہیں؟ اضطراب کے عارضے کی عالمات بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ سے اور آپ کے اضطراب کے عارضے کی قسم کے لحاظ سے مختلف ہو سکتی ہیں۔ عالمات آپ کے زندگی گزارنے اور دوسروں کے ساتھ وقت گزارنے کے طریقے پر بھی اثر انداز ہو سکتی ہیں۔ بے چینی کی بہت سی عالمات ہیں۔ ذیل کی عالمات کئی قسم کے اضطراب کی :خرابیوں میں مشترک ہیں • پریشان کن خیاالت یا عقائد • خوف اور خوف کے احساسات • جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی • رویے میں تبدیلیاں جیسے پچھلی"
+            }
+          }
+        ]
+      },
+      "time_ms": 356.74
+    }
+  },
+  "overlap_labse": {
+    "¿Cómo funciona la quimioterapia?": {
+      "response": {
+        "namespace": "overlap_labse",
+        "matches": [
+          {
+            "id": "9",
+            "score": 0.419589311,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "لیے کون سا عالج صحیح ہے اپنے صحت کی دیکھ بھال کرنے والے سے بات کریں۔ طبی عالج شروع کرنے یا بند کرنے سے پہلے آپ کو اپنے فراہم کنندہ سے خطرات، فوائد اور ضمنی اثرات کے بارے میں بھی بات کرنی چاہیے۔ خواتین کی صحت کا ایف ڈی اے آفس www.fda.gov/womens خواتین اور پریشانی میری جسمانی صحت کا میری ذہنی صحت پر کیا اثر پڑتا ہے؟ جو لوگ جسمانی طور پر صحت مند نہیں ہیں انہیں ذہنی طور پر صحت مند رہنے میں دشواری کا سامنا کرنا پڑ سکتا ہے۔ ذیابیطس یا دل کی بیماری جیسے دائمی (طویل مدتی)"
+            }
+          },
+          {
+            "id": "7",
+            "score": 0.384373367,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "ذہنی عوارض کی خاندانی تاریخ عام عالج کے اختیارات کیا ہیں؟ کچھ لوگوں کے لیے، عالج سے اضطراب کی عالمات کو کم کرنے میں مدد مل سکتی ہے۔ اضطراب کے عالج کی کئی اقسام ہیں جو آپ کو ہر روز اپنی :عالمات کو منظم کرنے میں مدد فراہم کرتی ہیں، جیسے • )مشاورت (سائیکو تھراپی یا ٹاک تھراپی عالج کی اس شکل میں تربیت یافتہ ذہنی صحت کے پیشہ ور سے بات کرنا شامل ہے۔ ایک ساتھ مل کر، آپ اپنی پریشانی پر قابو پانے کے لیے کام کر سکتے ہیں۔ • ادویات ادویات اضطراب کی خرابیوں کا عالج نہیں"
+            }
+          },
+          {
+            "id": "15",
+            "score": 0.362115383,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "حاملہ ہونے کے بارے میں سوچ رہے ہیں، حاملہ ہیں، یا دودھ پال رہی ہیں، تو آپ کو اپنے ہیلتھ کیئر فراہم کنندہ سے کسی بھی دوائیوں کے بارے میں بات کرنی چاہیے جو آپ پریشانی یا اضطراب کے لیے لے رہی ہیں۔ کچھ دوائیں آپ کے غیر پیدائشی بچے کو متاثر کر سکتی ہیں، لیکن دماغی صحت کی حالتوں کا عالج نہ کیا جائے تو یہ بھی غیر پیدائشی بچے کو متاثر کر سکتا ہے۔ کچھ دوائیں ماں کے دودھ کے ذریعے بھی آپ کے بچے تک پہنچ سکتی ہیں۔ اپنے فراہم کنندہ سے اس بارے میں بات کریں"
+            }
+          }
+        ]
+      },
+      "time_ms": 463.87
+    },
+    "اضطراب کیا ہے؟": {
+      "response": {
+        "namespace": "overlap_labse",
+        "matches": [
+          {
+            "id": "0",
+            "score": 0.471276402,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "Logos of HHS and U.S. Food & Drug Administration اضطراب کیا ہے؟ اضطراب کسی صورت حال یا کسی موقعے پر پریشانی، گبھراہٹ اور خوف کی کیفیت ہے۔ یہ ذہنی دبائو کے نتیجے میں پیدا ہونے واال معمول کا رد عمل ہے۔ اضطراب کام پر چیلینجنگ صورتحال میں ہشیار رہنے میں، امتحان کے وقت پڑھائی پر محنت کرنے میں، یا پھر اہم تقریر کے موقعے پر توجہ مرکوز کرنے میں آ پکی مدد کرتا ہے۔ عام طور پر، یہ آپکو کسی بھی صورت حال سے نمٹنے میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ"
+            }
+          },
+          {
+            "id": "1",
+            "score": 0.452031165,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "بھی صورت حال سے نمٹنے میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ آپکی روز مرہ زندگی کو متاٴثر کرنے لگے تو یہ غیر فعال ہو سکتا ہے۔ اضطراب کا عارضہ کیا ہے؟ اضطراب کا مرض تب ہوتا ہے جب آپکی بڑھتی ہوئی پریشانی آپکی روزمرہ زندگی پر اثرانداز ہونے لگے جیسا کہ کام یا سکول جانے یا دوستوں اور خاندان کے ساتھ وقت گزارنے میں رکاوٹ ہو۔ اضطراب کا مرض سنگین ذہنی بیماری ہے۔ اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں تقریبا چالیس ملین امریکیوں"
+            }
+          },
+          {
+            "id": "5",
+            "score": 0.430828035,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "عالمات کیا ہیں؟ اضطراب کے عارضے کی عالمات بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ سے اور آپ کے اضطراب کے عارضے کی قسم کے لحاظ سے مختلف ہو سکتی ہیں۔ عالمات آپ کے زندگی گزارنے اور دوسروں کے ساتھ وقت گزارنے کے طریقے پر بھی اثر انداز ہو سکتی ہیں۔ بے چینی کی بہت سی عالمات ہیں۔ ذیل کی عالمات کئی قسم کے اضطراب کی :خرابیوں میں مشترک ہیں • پریشان کن خیاالت یا عقائد • خوف اور خوف کے احساسات • جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی • رویے میں تبدیلیاں جیسے پچھلی"
+            }
+          }
+        ]
+      },
+      "time_ms": 327.9
+    }
+  },
+  "semantic_nltk_labse": {
+    "¿Cómo funciona la quimioterapia?": {
+      "response": {
+        "namespace": "semantic_nltk_labse",
+        "matches": [
+          {
+            "id": "2",
+            "score": 0.542837,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "En algunos tratamientos con quimioterapia, \nes posible que la persona deba ser \ninternada por uno o más días. Solo algunos \ntipos de quimioterapia se pueden \nadministrar en el hogar. ¿Con qué frecuencia se \nadministra la quimioterapia y \ncuánto dura? Como el tratamiento de cada persona \nes diferente, la frecuencia con la que se \nadministra y su duración también pueden \nser diferentes. La quimioterapia a menudo se administra \nen ciclos. Esto significa que la quimioterapia \nse administra y luego le sigue un periodo de \ndescanso."
+            }
+          },
+          {
+            "id": "4",
+            "score": 0.5182212,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "Preparación para la \nquimioterapia\nSi la quimioterapia es parte de su \ntratamiento, hable con su equipo de \nprofesionales que atiende su salud sobre lo \nque debe esperar. Esto le ayudará a planear \nlos cambios en su horario del trabajo o la \nfamilia, si son necesarios. Quimioterapia para el cáncer\nChemotherapy for Cancer – Spanish\n\nEfectos secundarios de la \nquimioterapia\nLa quimioterapia daña algunas células \nsanas normales, y esto puede causar \nefectos secundarios. Como los efectos \nsecundarios dependen de la quimioterapia \nque se administra, no todas las personas \nque reciben este tratamiento tendrán \nlos mismos efectos secundarios."
+            }
+          },
+          {
+            "id": "7",
+            "score": 0.501763165,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "•  ¿Con qué frecuencia recibiré el \ntratamiento? •  ¿Habrá periodos de descanso entre los \nciclos de tratamiento? •  ¿Cuánto durará mi tratamiento? •  ¿Adónde iré a recibir mi tratamiento? •  ¿Puedo conducir al tratamiento? •  ¿Necesitaré recibir otros tipos de \ntratamiento? •  ¿Qué efectos secundarios podría tener? •  ¿Cómo se tratarán mis efectos secundarios \ny qué puedo hacer al respecto? •  ¿Puedo continuar tomando mis otros \nmedicamentos o suplementos durante el \ntratamiento? •  ¿Cubrirá el  seguro médico mi tratamiento? ¿Cuánto tendré que pagar? •  ¿Podré trabajar y hacer mis actividades \nhabituales durante el tratamiento?"
+            }
+          }
+        ]
+      },
+      "time_ms": 318.51
+    },
+    "اضطراب کیا ہے؟": {
+      "response": {
+        "namespace": "semantic_nltk_labse",
+        "matches": [
+          {
+            "id": "1",
+            "score": 0.422487408,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "Logos of HHS and U.S. Food & Drug Administration\nاضطراب کیا ہے؟\n اضطراب کسی صورت حال یا کسی موقعے پر  پریشانی، گبھراہٹ اور خوف کی\n  کیفیت ہے۔ یہ ذہنی دبائو کے نتیجے میں پیدا ہونے واال معمول کا  رد عمل ہے۔\n  اضطراب کام پر چیلینجنگ صورتحال میں ہشیار رہنے میں، امتحان کے وقت\n پڑھائی پر محنت کرنے میں، یا پھر اہم تقریر کے موقعے پر  توجہ مرکوز کرنے\n میں  آ پکی مدد کرتا ہے۔ عام طور پر، یہ آپکو کسی بھی صورت حال سے نمٹنے\n میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ آپکی روز\nمرہ زندگی کو متاٴثر کرنے لگے تو یہ غیر فعال ہو سکتا ہے۔\nاضطراب کا عارضہ کیا ہے؟\n اضطراب کا مرض تب ہوتا ہے جب آپکی بڑھتی ہوئی پریشانی آپکی روزمرہ\n زندگی پر اثرانداز ہونے لگے جیسا کہ کام یا سکول  جانے  یا دوستوں اور\n خاندان کے ساتھ وقت گزارنے میں رکاوٹ ہو۔ اضطراب کا مرض سنگین ذہنی\nبیماری ہے۔\n اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں\n تقریبا چالیس ملین امریکیوں کو متاثر کرتا ہے۔ عورتوں کو زندگی بھر میں یہ\n مرض پیدا ہونے کے امکانات  مردوں کے مقابلے میں دوگنے ہیں۔ اضطراب کا\n مرض قابل عالج ہونے کے باوجود اس سے متاثر ہونے والے صرف سینتیس\nفیصد لوگوں کا ہی عالج ہو پاتا ہے۔\n اضطراب کے امراض کی اہم اقسام کونسی ہیں؟\n اضطراب کے امراض کی اہم اقسام بہت سی ہیں۔ انکی اپنی اپنی خصلتیں ہیں اور\n  وہ لوگوں کو مختلف طریقوں سے متاثر کرتی ہیں۔\n•  \n میں زندگی کے عام معامالت )اضطراب کے عمومی امراض (جی اے ڈی\n کے بارے میں، جیسے کہ خاندان یا آمدنی کے متعلق حد سے بڑھی ہوئی\n تشویش ہونا ہے۔ یہ روزانہ ہو سکتی ہے اور دن گزارنا یا رات کو سونا\n ًمشکل کر سکتی ہے۔  (جی اے ڈی) اور دوسرے اہم ذہنی دباوٴ عموما\nمریض کو اکٹھے متاٴثر کرتے ہیں۔\n•  \n اس میں بار بار اور اچانک گھبراہٹ کے دہشت زدہ ہونے کا عارضہ\n حملے شامل ہیں، جو کہ دہشت کے غیر متوقع احساسات ہیں جو بغیر کسی\n وارننگ کے ہوتے ہیں۔ گھبراہٹ کے حملے اس وقت ہوسکتے ہیں جب\nکوئی براہ راست خطرہ نہ ہو۔\n•  \n کسی چیز کا شدید خوف ہے جس سے کوئی خطرہ نہیں ہے۔ اس فوبیاس\n میں ہوائی سفر کرنا یا لوگوں کے ایک بڑے گروپ کے ارد گرد رہنا شامل\nہو سکتا ہے۔\n اضطراب کے عارضے کی عالمات کیا ہیں؟\n اضطراب کے عارضے کی عالمات  بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ\n سے اور آپ کے اضطراب کے عارضے کی قسم کے لحاظ سے مختلف ہو\n سکتی ہیں۔ عالمات آپ کے زندگی گزارنے اور دوسروں کے ساتھ وقت گزارنے\nکے طریقے پر بھی اثر انداز ہو سکتی ہیں۔\n بے چینی کی بہت سی عالمات ہیں۔ ذیل کی عالمات کئی قسم کے اضطراب کی\n :خرابیوں میں مشترک ہیں\n•  پریشان کن خیاالت یا عقائد\n•  خوف اور خوف کے احساسات\n•  جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی\n•  رویے میں تبدیلیاں جیسے پچھلی عام سرگرمیوں سے گریز کرنا\n اضطراب کے عارضے کی وجہ کیا ہے؟\n کئی عوامل اضطراب کی خرابی کے خطرے کو بڑھا سکتے ہیں۔ وہ ایک عورت\n سے دوسری عورت میں مختلف ہو سکتے ہیں۔ چند عام خطرے والے عوامل میں\n :شامل ہیں\n•  بچپن یا جوانی میں تکلیف دہ واقعات\n•  ماہواری کے دوران ہارمونل تبدیلیاں\n•  اضطراب یا دیگر ذہنی عوارض کی خاندانی تاریخ\n عام عالج کے اختیارات کیا ہیں؟\n کچھ لوگوں کے لیے، عالج سے اضطراب کی عالمات کو کم کرنے میں مدد\n مل سکتی ہے۔ اضطراب کے عالج کی کئی اقسام ہیں جو آپ کو ہر روز اپنی\n :عالمات کو منظم کرنے میں مدد فراہم کرتی ہیں، جیسے\n•  \n )مشاورت (سائیکو تھراپی یا ٹاک تھراپی\n عالج کی اس شکل میں تربیت یافتہ ذہنی صحت کے پیشہ ور سے بات کرنا\n شامل ہے۔ ایک ساتھ مل کر، آپ اپنی پریشانی پر قابو پانے کے لیے کام کر\nسکتے ہیں۔\n•  ادویات\n ادویات اضطراب کی خرابیوں کا عالج نہیں کرتی ہیں لیکن عالمات کو\n دور کرنے میں مدد کر سکتی ہیں۔ صحت کی دیکھ بھال فراہم کرنے والے\n اضطراب کے لیے دوائیں لکھ سکتے ہیں۔ اضطراب کے عوارض سے\n نمٹنے کے لیے استعمال ہونے والی دوائیوں کی سب سے عام مثالیں اینٹی\nڈپریسنٹس، اینٹی اینزائٹی دوائیں (جیسے بینزوڈیازپائنز) اور بیٹا بالکرز ہیں۔\n یہ جاننے کے لیے کہ آپ کے لیے کون سا عالج صحیح ہے اپنے صحت کی\n دیکھ بھال کرنے والے سے بات کریں۔ طبی عالج شروع کرنے یا بند کرنے سے\n پہلے آپ کو اپنے فراہم کنندہ سے خطرات، فوائد اور ضمنی اثرات کے بارے\nمیں بھی بات کرنی چاہیے۔\nخواتین کی صحت کا ایف ڈی اے آفس\nwww.fda.gov/womens \nخواتین اور پریشانی\n\n میری جسمانی صحت کا میری ذہنی صحت پر کیا\n اثر پڑتا ہے؟\nجو لوگ جسمانی طور پر صحت مند نہیں ہیں انہیں ذہنی طور پر صحت مند \nرہنے میں دشواری کا سامنا کرنا پڑ سکتا ہے۔ ذیابیطس یا دل کی بیماری جیسے \nدائمی (طویل مدتی) صحت کے مسائل کے ساتھ رہنے والے لوگوں میں اکثر تناؤ \nاور اضطراب کی اعلی سطح کا امکان زیادہ ہوتا ہے۔ ایک دائمی بیماری ہونے \nکا مطلب ہمیشہ یہ نہیں ہوتا کہ آپ کو ذہنی صحت کی حالت خراب ہو گی جیسے \nاضطراب کی خرابی، لیکن اگر آپ دونوں کے ساتھ جدوجہد کر رہے ہیں تو \nجان لیں کہ آپ اکیلے نہیں ہیں۔ سپورٹ گروپس اور ہیلتھ کیئر پروفیشنلز مدد کر \nسکتے ہیں۔ صحت مند کھانا اور دیگر صحت مند عادات، جیسے ورزش، یوگا، \nیا مراقبہ جسمانی صحت کو بہتر بنانے اور اضطراب کو کم کرنے میں مدد کر \nسکتے ہیں۔\nپکو کیا کرنا چاہیےاگر آپ کو لگتا ہے کہ آپ کو \nانگذائٹی ہے؟ \nصحت کی دیکھ بھال فراہم کرنے والے یا ڈاکٹر سے ملنے کے لیے مالقات \n\nکا وقت لیں۔ \n\nاس مالقات پر، آپ کا بنیادی نگہداشت کا ڈاکٹر دماغی صحت کی ابتدائی \nاسکریننگ کرے گا۔ وہاں سے، وہ آپ کو دماغی صحت کے ماہر کے پاس بھیج \nسکتے ہیں۔\nاپنی دیکھ بھال میں شامل ہوں۔ اپنے عالمات کے بارے میں کھل کر بات کریں \nاور اپنے اختیارات کو سنیں۔ ان اختیارات پر اپنی رائے دیں جو آپ کو لگتا ہے \nکہ آپ کے لیے موزوں ہو سکتی ہے۔ \nحمایت کے لیے ان لوگوں کی طرف رجوع کریں جن پر آپ اعتماد کرتے ہیں۔ \nجب آپ اضطراب کی خرابی کے ساتھ زندگی گزارتے ہیں، تو یہ آپ کی زندگی \nمیں ایسے لوگوں کو  شامل رکھنے میں مدد کرتا ہے جن پر آپ اعتماد کرتے \nہیں۔ ایسے دوستوں اور معاون گروپوں کو تالش کریں جن کے بارے میں آپ \nجانتے ہیں کہ وہ آپ کے خدشات کو سنیں گے اور مشکل وقت میں آپ کی مدد \nکریں گے۔ \nاگر آپ کو اپنی دماغی صحت کے بارے میں فوری خدشات ہیں تو خودکشی اور \n پر کال کریں یا پیغام بھیجیں۔ 988 بحران کی الئف الئن کو\n\nیہ الئف الئن چوبیس گھنٹے دن رات، مصیبت میں گھرے لوگوں کے لیے مفت اور \nخفیہ مدد فراہم کرتی ہے، اور ریاستہائے متحدہ میں آپ یا آپ کے پیاروں کے لیے \n پر کال کریں اگر آپ یا آپ کا کوئی 911 بحران میں مددکے وسائل فراہم کرتی ہے۔\nجاننے واال فوری خطرے میں ہے یا قریبی ایمرجنسی روم میں جائیں۔\nآپ کو دورانِ حمل اضطراب کے بارے میں کیا \nجاننے کی ضرورت ہے؟ \nاگر آپ حاملہ ہونے کے بارے میں سوچ رہے ہیں، حاملہ ہیں، یا دودھ پال رہی \nہیں، تو آپ کو اپنے ہیلتھ کیئر فراہم کنندہ سے کسی بھی دوائیوں کے بارے \nمیں بات کرنی چاہیے جو آپ پریشانی یا اضطراب کے لیے لے رہی ہیں۔ کچھ \nدوائیں آپ کے غیر پیدائشی بچے کو متاثر کر سکتی ہیں، لیکن دماغی صحت \nکی حالتوں کا عالج نہ کیا جائے تو  یہ بھی غیر پیدائشی بچے کو  متاثر کر سکتا \nہے۔ کچھ دوائیں ماں کے دودھ کے ذریعے بھی آپ کے بچے تک پہنچ سکتی \nہیں۔ اپنے فراہم کنندہ سے اس بارے میں بات کریں کہ آپ اور آپ کے بچے کے \nلیے کون سے عالج محفوظ ہیں۔\nحمل کے دوران یا ایک نئی ماں کے طور پر، آپ بعض اوقات جذبات سے \nمغلوب محسوس کر سکتے ہیں۔ دماغی صحت کی مدد اور وسائل نیشنل میٹرنل \nمینٹل ہیلتھ ہاٹ الئن کے ذریعے دستیاب ہیں۔ یہ مفت، خفیہ اور دن رات چوبیس \n پر 1-833-9-HELP4MOMS (1-833-943-5746) گھنٹے دستیاب ہے۔\nفون کریں یا پیغام بھیجیں۔ \nطبی عالج کے تمام اختیارات کے بارے میں اپنے صحت کی دیکھ بھال فراہم \nکرنے والے سے بات کریں۔ ان کے خطرات اور فوائد پر تبادلہ خیال کریں۔ آپ کا \nفراہم کنندہ یا ڈاکٹر آپ کے تمام سواالت کے جوابات ایک ساتھ دے سکتا ہے، \nآپ فیصلہ کر سکتے ہیں کہ آپ کے لیے کون سا عالج صحیح ہے۔\n آفس آف وومنز ہیلتھ نے تیار کیا ہے۔ یہ معلومات تعلیمی مقاصد کے لیے ہے، اس میں تمام معلومات شامل نہیں ہیں، اور آپ کے FDA یہ حقائق نامہ\nصحت کی دیکھ بھال فراہم کرنے والے سے بات کرنے کی جگہ استعمال نہیں کی جانی چاہیے۔\nخواتین اور پریشانی کے بارے میں مزید جاننے کے لیے، یہاں جائیں: \nwww.fda.gov/womens\nMay 2023صحت کی علامتوں سے بھرا ہوا، ٹانگوں کے لئے، ڈی این اے ہیلکس والی خواتین کی منقش تصویر\nخواتین اور پریشانی\nخواتین اور پریشانی(Urdu)"
+            }
+          },
+          {
+            "id": "7",
+            "score": 0.331960291,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "•  ¿Con qué frecuencia recibiré el \ntratamiento? •  ¿Habrá periodos de descanso entre los \nciclos de tratamiento? •  ¿Cuánto durará mi tratamiento? •  ¿Adónde iré a recibir mi tratamiento? •  ¿Puedo conducir al tratamiento? •  ¿Necesitaré recibir otros tipos de \ntratamiento? •  ¿Qué efectos secundarios podría tener? •  ¿Cómo se tratarán mis efectos secundarios \ny qué puedo hacer al respecto? •  ¿Puedo continuar tomando mis otros \nmedicamentos o suplementos durante el \ntratamiento? •  ¿Cubrirá el  seguro médico mi tratamiento? ¿Cuánto tendré que pagar? •  ¿Podré trabajar y hacer mis actividades \nhabituales durante el tratamiento?"
+            }
+          },
+          {
+            "id": "8",
+            "score": 0.316072255,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "•  ¿Qué puedo hacer para cuidarme durante el \ntratamiento? •  ¿Hay algo especial que necesito hacer para \nprotegerme y proteger a otras personas \nmientras recibo tratamiento? •  ¿Cuándo debo llamar al médico o a la \nenfermera? SPANISH\n©2021, Sociedad Americana Contra El Cáncer, Inc. No. 080804\nLos modelos se usaron con propósitos exclusivamente ilustrativos. cancer.org/es  |  1.800.227.2345\nPara obtener información sobre el cáncer, ayuda diaria y apoyo, llame a la  \nSociedad Americana Contra El Cáncer al 1-800-227-2345 o visítenos  \nen línea en cancer.org/chemotherapy. Estamos aquí cuando usted nos necesite."
+            }
+          }
+        ]
+      },
+      "time_ms": 537.0
+    }
+  },
+  "dynamic_labse": {
+    "¿Cómo funciona la quimioterapia?": {
+      "response": {
+        "namespace": "dynamic_labse",
+        "matches": [
+          {
+            "id": "1",
+            "score": 0.557167649,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "Muchos tipos de quimioterapia se \nadministran como infusión por vía \nintravenosa, o sea en una vena. Otros \ntipos se pueden administrar en forma de \ninyección, o se pueden tomar como un \ncomprimido. La quimioterapia puede ser \nel único tratamiento que se necesita para \nalgunos cánceres. O, algunas veces se \npuede administrar con otros tratamientos \ncomo cirugía, radiación, terapia hormonal, \nterapia dirigida o inmunoterapia. ¿Dónde reciben quimioterapia \nlas personas? Con frecuencia la quimioterapia se \nadministra en una clínica o centro de \ntratamiento para pacientes ambulatorios. En algunos tratamientos con quimioterapia, \nes posible que la persona deba ser \ninternada por uno o más días."
+            }
+          },
+          {
+            "id": "2",
+            "score": 0.531481862,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "Solo algunos \ntipos de quimioterapia se pueden \nadministrar en el hogar. ¿Con qué frecuencia se \nadministra la quimioterapia y \ncuánto dura? Como el tratamiento de cada persona \nes diferente, la frecuencia con la que se \nadministra y su duración también pueden \nser diferentes. La quimioterapia a menudo se administra \nen ciclos. Esto significa que la quimioterapia \nse administra y luego le sigue un periodo de \ndescanso. Este periodo de descanso permite \nque el cuerpo se recupere de los efectos \nsecundarios antes de que se administre el \nsiguiente tratamiento. Por ejemplo, se podría administrar la \nquimioterapia uno o más días a la semana, \nseguida de un par de semanas de descanso."
+            }
+          },
+          {
+            "id": "4",
+            "score": 0.517540932,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "Quimioterapia para el cáncer\nChemotherapy for Cancer – Spanish\n\nEfectos secundarios de la \nquimioterapia\nLa quimioterapia daña algunas células \nsanas normales, y esto puede causar \nefectos secundarios. Como los efectos \nsecundarios dependen de la quimioterapia \nque se administra, no todas las personas \nque reciben este tratamiento tendrán \nlos mismos efectos secundarios. Algunos \nefectos secundarios podrían suceder \ndurante o inmediatamente después de la \nquimioterapia, mientras que otros podrían \nsuceder algunos días, semanas, meses o \naños después del tratamiento."
+            }
+          }
+        ]
+      },
+      "time_ms": 342.63
+    },
+    "اضطراب کیا ہے؟": {
+      "response": {
+        "namespace": "dynamic_labse",
+        "matches": [
+          {
+            "id": "0",
+            "score": 0.422487408,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "Logos of HHS and U.S. Food & Drug Administration\nاضطراب کیا ہے؟\n اضطراب کسی صورت حال یا کسی موقعے پر  پریشانی، گبھراہٹ اور خوف کی\n  کیفیت ہے۔ یہ ذہنی دبائو کے نتیجے میں پیدا ہونے واال معمول کا  رد عمل ہے۔\n  اضطراب کام پر چیلینجنگ صورتحال میں ہشیار رہنے میں، امتحان کے وقت\n پڑھائی پر محنت کرنے میں، یا پھر اہم تقریر کے موقعے پر  توجہ مرکوز کرنے\n میں  آ پکی مدد کرتا ہے۔ عام طور پر، یہ آپکو کسی بھی صورت حال سے نمٹنے\n میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ آپکی روز\nمرہ زندگی کو متاٴثر کرنے لگے تو یہ غیر فعال ہو سکتا ہے۔\nاضطراب کا عارضہ کیا ہے؟\n اضطراب کا مرض تب ہوتا ہے جب آپکی بڑھتی ہوئی پریشانی آپکی روزمرہ\n زندگی پر اثرانداز ہونے لگے جیسا کہ کام یا سکول  جانے  یا دوستوں اور\n خاندان کے ساتھ وقت گزارنے میں رکاوٹ ہو۔ اضطراب کا مرض سنگین ذہنی\nبیماری ہے۔\n اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں\n تقریبا چالیس ملین امریکیوں کو متاثر کرتا ہے۔ عورتوں کو زندگی بھر میں یہ\n مرض پیدا ہونے کے امکانات  مردوں کے مقابلے میں دوگنے ہیں۔ اضطراب کا\n مرض قابل عالج ہونے کے باوجود اس سے متاثر ہونے والے صرف سینتیس\nفیصد لوگوں کا ہی عالج ہو پاتا ہے۔\n اضطراب کے امراض کی اہم اقسام کونسی ہیں؟\n اضطراب کے امراض کی اہم اقسام بہت سی ہیں۔ انکی اپنی اپنی خصلتیں ہیں اور\n  وہ لوگوں کو مختلف طریقوں سے متاثر کرتی ہیں۔\n•  \n میں زندگی کے عام معامالت )اضطراب کے عمومی امراض (جی اے ڈی\n کے بارے میں، جیسے کہ خاندان یا آمدنی کے متعلق حد سے بڑھی ہوئی\n تشویش ہونا ہے۔ یہ روزانہ ہو سکتی ہے اور دن گزارنا یا رات کو سونا\n ًمشکل کر سکتی ہے۔  (جی اے ڈی) اور دوسرے اہم ذہنی دباوٴ عموما\nمریض کو اکٹھے متاٴثر کرتے ہیں۔\n•  \n اس میں بار بار اور اچانک گھبراہٹ کے دہشت زدہ ہونے کا عارضہ\n حملے شامل ہیں، جو کہ دہشت کے غیر متوقع احساسات ہیں جو بغیر کسی\n وارننگ کے ہوتے ہیں۔ گھبراہٹ کے حملے اس وقت ہوسکتے ہیں جب\nکوئی براہ راست خطرہ نہ ہو۔\n•  \n کسی چیز کا شدید خوف ہے جس سے کوئی خطرہ نہیں ہے۔ اس فوبیاس\n میں ہوائی سفر کرنا یا لوگوں کے ایک بڑے گروپ کے ارد گرد رہنا شامل\nہو سکتا ہے۔\n اضطراب کے عارضے کی عالمات کیا ہیں؟\n اضطراب کے عارضے کی عالمات  بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ\n سے اور آپ کے اضطراب کے عارضے کی قسم کے لحاظ سے مختلف ہو\n سکتی ہیں۔ عالمات آپ کے زندگی گزارنے اور دوسروں کے ساتھ وقت گزارنے\nکے طریقے پر بھی اثر انداز ہو سکتی ہیں۔\n بے چینی کی بہت سی عالمات ہیں۔ ذیل کی عالمات کئی قسم کے اضطراب کی\n :خرابیوں میں مشترک ہیں\n•  پریشان کن خیاالت یا عقائد\n•  خوف اور خوف کے احساسات\n•  جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی\n•  رویے میں تبدیلیاں جیسے پچھلی عام سرگرمیوں سے گریز کرنا\n اضطراب کے عارضے کی وجہ کیا ہے؟\n کئی عوامل اضطراب کی خرابی کے خطرے کو بڑھا سکتے ہیں۔ وہ ایک عورت\n سے دوسری عورت میں مختلف ہو سکتے ہیں۔ چند عام خطرے والے عوامل میں\n :شامل ہیں\n•  بچپن یا جوانی میں تکلیف دہ واقعات\n•  ماہواری کے دوران ہارمونل تبدیلیاں\n•  اضطراب یا دیگر ذہنی عوارض کی خاندانی تاریخ\n عام عالج کے اختیارات کیا ہیں؟\n کچھ لوگوں کے لیے، عالج سے اضطراب کی عالمات کو کم کرنے میں مدد\n مل سکتی ہے۔ اضطراب کے عالج کی کئی اقسام ہیں جو آپ کو ہر روز اپنی\n :عالمات کو منظم کرنے میں مدد فراہم کرتی ہیں، جیسے\n•  \n )مشاورت (سائیکو تھراپی یا ٹاک تھراپی\n عالج کی اس شکل میں تربیت یافتہ ذہنی صحت کے پیشہ ور سے بات کرنا\n شامل ہے۔ ایک ساتھ مل کر، آپ اپنی پریشانی پر قابو پانے کے لیے کام کر\nسکتے ہیں۔\n•  ادویات\n ادویات اضطراب کی خرابیوں کا عالج نہیں کرتی ہیں لیکن عالمات کو\n دور کرنے میں مدد کر سکتی ہیں۔ صحت کی دیکھ بھال فراہم کرنے والے\n اضطراب کے لیے دوائیں لکھ سکتے ہیں۔ اضطراب کے عوارض سے\n نمٹنے کے لیے استعمال ہونے والی دوائیوں کی سب سے عام مثالیں اینٹی\nڈپریسنٹس، اینٹی اینزائٹی دوائیں (جیسے بینزوڈیازپائنز) اور بیٹا بالکرز ہیں۔\n یہ جاننے کے لیے کہ آپ کے لیے کون سا عالج صحیح ہے اپنے صحت کی\n دیکھ بھال کرنے والے سے بات کریں۔ طبی عالج شروع کرنے یا بند کرنے سے\n پہلے آپ کو اپنے فراہم کنندہ سے خطرات، فوائد اور ضمنی اثرات کے بارے\nمیں بھی بات کرنی چاہیے۔\nخواتین کی صحت کا ایف ڈی اے آفس\nwww.fda.gov/womens \nخواتین اور پریشانی\n\n میری جسمانی صحت کا میری ذہنی صحت پر کیا\n اثر پڑتا ہے؟\nجو لوگ جسمانی طور پر صحت مند نہیں ہیں انہیں ذہنی طور پر صحت مند \nرہنے میں دشواری کا سامنا کرنا پڑ سکتا ہے۔ ذیابیطس یا دل کی بیماری جیسے \nدائمی (طویل مدتی) صحت کے مسائل کے ساتھ رہنے والے لوگوں میں اکثر تناؤ \nاور اضطراب کی اعلی سطح کا امکان زیادہ ہوتا ہے۔ ایک دائمی بیماری ہونے \nکا مطلب ہمیشہ یہ نہیں ہوتا کہ آپ کو ذہنی صحت کی حالت خراب ہو گی جیسے \nاضطراب کی خرابی، لیکن اگر آپ دونوں کے ساتھ جدوجہد کر رہے ہیں تو \nجان لیں کہ آپ اکیلے نہیں ہیں۔ سپورٹ گروپس اور ہیلتھ کیئر پروفیشنلز مدد کر \nسکتے ہیں۔ صحت مند کھانا اور دیگر صحت مند عادات، جیسے ورزش، یوگا، \nیا مراقبہ جسمانی صحت کو بہتر بنانے اور اضطراب کو کم کرنے میں مدد کر \nسکتے ہیں۔\nپکو کیا کرنا چاہیےاگر آپ کو لگتا ہے کہ آپ کو \nانگذائٹی ہے؟ \nصحت کی دیکھ بھال فراہم کرنے والے یا ڈاکٹر سے ملنے کے لیے مالقات \n\nکا وقت لیں۔ \n\nاس مالقات پر، آپ کا بنیادی نگہداشت کا ڈاکٹر دماغی صحت کی ابتدائی \nاسکریننگ کرے گا۔ وہاں سے، وہ آپ کو دماغی صحت کے ماہر کے پاس بھیج \nسکتے ہیں۔\nاپنی دیکھ بھال میں شامل ہوں۔ اپنے عالمات کے بارے میں کھل کر بات کریں \nاور اپنے اختیارات کو سنیں۔ ان اختیارات پر اپنی رائے دیں جو آپ کو لگتا ہے \nکہ آپ کے لیے موزوں ہو سکتی ہے۔ \nحمایت کے لیے ان لوگوں کی طرف رجوع کریں جن پر آپ اعتماد کرتے ہیں۔ \nجب آپ اضطراب کی خرابی کے ساتھ زندگی گزارتے ہیں، تو یہ آپ کی زندگی \nمیں ایسے لوگوں کو  شامل رکھنے میں مدد کرتا ہے جن پر آپ اعتماد کرتے \nہیں۔ ایسے دوستوں اور معاون گروپوں کو تالش کریں جن کے بارے میں آپ \nجانتے ہیں کہ وہ آپ کے خدشات کو سنیں گے اور مشکل وقت میں آپ کی مدد \nکریں گے۔ \nاگر آپ کو اپنی دماغی صحت کے بارے میں فوری خدشات ہیں تو خودکشی اور \n پر کال کریں یا پیغام بھیجیں۔ 988 بحران کی الئف الئن کو\n\nیہ الئف الئن چوبیس گھنٹے دن رات، مصیبت میں گھرے لوگوں کے لیے مفت اور \nخفیہ مدد فراہم کرتی ہے، اور ریاستہائے متحدہ میں آپ یا آپ کے پیاروں کے لیے \n پر کال کریں اگر آپ یا آپ کا کوئی 911 بحران میں مددکے وسائل فراہم کرتی ہے۔\nجاننے واال فوری خطرے میں ہے یا قریبی ایمرجنسی روم میں جائیں۔\nآپ کو دورانِ حمل اضطراب کے بارے میں کیا \nجاننے کی ضرورت ہے؟ \nاگر آپ حاملہ ہونے کے بارے میں سوچ رہے ہیں، حاملہ ہیں، یا دودھ پال رہی \nہیں، تو آپ کو اپنے ہیلتھ کیئر فراہم کنندہ سے کسی بھی دوائیوں کے بارے \nمیں بات کرنی چاہیے جو آپ پریشانی یا اضطراب کے لیے لے رہی ہیں۔ کچھ \nدوائیں آپ کے غیر پیدائشی بچے کو متاثر کر سکتی ہیں، لیکن دماغی صحت \nکی حالتوں کا عالج نہ کیا جائے تو  یہ بھی غیر پیدائشی بچے کو  متاثر کر سکتا \nہے۔ کچھ دوائیں ماں کے دودھ کے ذریعے بھی آپ کے بچے تک پہنچ سکتی \nہیں۔ اپنے فراہم کنندہ سے اس بارے میں بات کریں کہ آپ اور آپ کے بچے کے \nلیے کون سے عالج محفوظ ہیں۔\nحمل کے دوران یا ایک نئی ماں کے طور پر، آپ بعض اوقات جذبات سے \nمغلوب محسوس کر سکتے ہیں۔ دماغی صحت کی مدد اور وسائل نیشنل میٹرنل \nمینٹل ہیلتھ ہاٹ الئن کے ذریعے دستیاب ہیں۔ یہ مفت، خفیہ اور دن رات چوبیس \n پر 1-833-9-HELP4MOMS (1-833-943-5746) گھنٹے دستیاب ہے۔\nفون کریں یا پیغام بھیجیں۔ \nطبی عالج کے تمام اختیارات کے بارے میں اپنے صحت کی دیکھ بھال فراہم \nکرنے والے سے بات کریں۔ ان کے خطرات اور فوائد پر تبادلہ خیال کریں۔ آپ کا \nفراہم کنندہ یا ڈاکٹر آپ کے تمام سواالت کے جوابات ایک ساتھ دے سکتا ہے، \nآپ فیصلہ کر سکتے ہیں کہ آپ کے لیے کون سا عالج صحیح ہے۔\n آفس آف وومنز ہیلتھ نے تیار کیا ہے۔ یہ معلومات تعلیمی مقاصد کے لیے ہے، اس میں تمام معلومات شامل نہیں ہیں، اور آپ کے FDA یہ حقائق نامہ\nصحت کی دیکھ بھال فراہم کرنے والے سے بات کرنے کی جگہ استعمال نہیں کی جانی چاہیے۔\nخواتین اور پریشانی کے بارے میں مزید جاننے کے لیے، یہاں جائیں: \nwww.fda.gov/womens\nMay 2023صحت کی علامتوں سے بھرا ہوا، ٹانگوں کے لئے، ڈی این اے ہیلکس والی خواتین کی منقش تصویر\nخواتین اور پریشانی\nخواتین اور پریشانی(Urdu)"
+            }
+          },
+          {
+            "id": "6",
+            "score": 0.348324299,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "•  ¿Con qué frecuencia recibiré el \ntratamiento? •  ¿Habrá periodos de descanso entre los \nciclos de tratamiento? •  ¿Cuánto durará mi tratamiento? •  ¿Adónde iré a recibir mi tratamiento? •  ¿Puedo conducir al tratamiento? •  ¿Necesitaré recibir otros tipos de \ntratamiento? •  ¿Qué efectos secundarios podría tener? •  ¿Cómo se tratarán mis efectos secundarios \ny qué puedo hacer al respecto? •  ¿Puedo continuar tomando mis otros \nmedicamentos o suplementos durante el \ntratamiento? •  ¿Cubrirá el  seguro médico mi tratamiento? ¿Cuánto tendré que pagar?"
+            }
+          },
+          {
+            "id": "8",
+            "score": 0.302277327,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "cancer.org/es  |  1.800.227.2345\nPara obtener información sobre el cáncer, ayuda diaria y apoyo, llame a la  \nSociedad Americana Contra El Cáncer al 1-800-227-2345 o visítenos  \nen línea en cancer.org/chemotherapy. Estamos aquí cuando usted nos necesite."
+            }
+          }
+        ]
+      },
+      "time_ms": 319.93
+    }
+  },
+  "delimiter_labse": {
+    "¿Cómo funciona la quimioterapia?": {
+      "response": {
+        "namespace": "delimiter_labse",
+        "matches": [
+          {
+            "id": "1",
+            "score": 0.366119742,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "میری جسمانی صحت کا میری ذہنی صحت پر کیا\n اثر پڑتا ہے؟\nجو لوگ جسمانی طور پر صحت مند نہیں ہیں انہیں ذہنی طور پر صحت مند \nرہنے میں دشواری کا سامنا کرنا پڑ سکتا ہے۔ ذیابیطس یا دل کی بیماری جیسے \nدائمی (طویل مدتی) صحت کے مسائل کے ساتھ رہنے والے لوگوں میں اکثر تناؤ \nاور اضطراب کی اعلی سطح کا امکان زیادہ ہوتا ہے۔ ایک دائمی بیماری ہونے \nکا مطلب ہمیشہ یہ نہیں ہوتا کہ آپ کو ذہنی صحت کی حالت خراب ہو گی جیسے \nاضطراب کی خرابی، لیکن اگر آپ دونوں کے ساتھ جدوجہد کر رہے ہیں تو \nجان لیں کہ آپ اکیلے نہیں ہیں۔ سپورٹ گروپس اور ہیلتھ کیئر پروفیشنلز مدد کر \nسکتے ہیں۔ صحت مند کھانا اور دیگر صحت مند عادات، جیسے ورزش، یوگا، \nیا مراقبہ جسمانی صحت کو بہتر بنانے اور اضطراب کو کم کرنے میں مدد کر \nسکتے ہیں۔\nپکو کیا کرنا چاہیےاگر آپ کو لگتا ہے کہ آپ کو \nانگذائٹی ہے؟ \nصحت کی دیکھ بھال فراہم کرنے والے یا ڈاکٹر سے ملنے کے لیے مالقات"
+            }
+          },
+          {
+            "id": "4",
+            "score": 0.344639,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "یہ الئف الئن چوبیس گھنٹے دن رات، مصیبت میں گھرے لوگوں کے لیے مفت اور \nخفیہ مدد فراہم کرتی ہے، اور ریاستہائے متحدہ میں آپ یا آپ کے پیاروں کے لیے \n پر کال کریں اگر آپ یا آپ کا کوئی 911 بحران میں مددکے وسائل فراہم کرتی ہے۔\nجاننے واال فوری خطرے میں ہے یا قریبی ایمرجنسی روم میں جائیں۔\nآپ کو دورانِ حمل اضطراب کے بارے میں کیا \nجاننے کی ضرورت ہے؟ \nاگر آپ حاملہ ہونے کے بارے میں سوچ رہے ہیں، حاملہ ہیں، یا دودھ پال رہی \nہیں، تو آپ کو اپنے ہیلتھ کیئر فراہم کنندہ سے کسی بھی دوائیوں کے بارے \nمیں بات کرنی چاہیے جو آپ پریشانی یا اضطراب کے لیے لے رہی ہیں۔ کچھ \nدوائیں آپ کے غیر پیدائشی بچے کو متاثر کر سکتی ہیں، لیکن دماغی صحت \nکی حالتوں کا عالج نہ کیا جائے تو  یہ بھی غیر پیدائشی بچے کو  متاثر کر سکتا \nہے۔ کچھ دوائیں ماں کے دودھ کے ذریعے بھی آپ کے بچے تک پہنچ سکتی \nہیں۔ اپنے فراہم کنندہ سے اس بارے میں بات کریں کہ آپ اور آپ کے بچے کے \nلیے کون سے عالج محفوظ ہیں۔\nحمل کے دوران یا ایک نئی ماں کے طور پر، آپ بعض اوقات جذبات سے \nمغلوب محسوس کر سکتے ہیں۔ دماغی صحت کی مدد اور وسائل نیشنل میٹرنل \nمینٹل ہیلتھ ہاٹ الئن کے ذریعے دستیاب ہیں۔ یہ مفت، خفیہ اور دن رات چوبیس \n پر 1-833-9-HELP4MOMS (1-833-943-5746) گھنٹے دستیاب ہے۔\nفون کریں یا پیغام بھیجیں۔ \nطبی عالج کے تمام اختیارات کے بارے میں اپنے صحت کی دیکھ بھال فراہم \nکرنے والے سے بات کریں۔ ان کے خطرات اور فوائد پر تبادلہ خیال کریں۔ آپ کا \nفراہم کنندہ یا ڈاکٹر آپ کے تمام سواالت کے جوابات ایک ساتھ دے سکتا ہے، \nآپ فیصلہ کر سکتے ہیں کہ آپ کے لیے کون سا عالج صحیح ہے۔\n آفس آف وومنز ہیلتھ نے تیار کیا ہے۔ یہ معلومات تعلیمی مقاصد کے لیے ہے، اس میں تمام معلومات شامل نہیں ہیں، اور آپ کے FDA یہ حقائق نامہ\nصحت کی دیکھ بھال فراہم کرنے والے سے بات کرنے کی جگہ استعمال نہیں کی جانی چاہیے۔\nخواتین اور پریشانی کے بارے میں مزید جاننے کے لیے، یہاں جائیں: \nwww.fda.gov/womens\nMay 2023صحت کی علامتوں سے بھرا ہوا، ٹانگوں کے لئے، ڈی این اے ہیلکس والی خواتین کی منقش تصویر\nخواتین اور پریشانی\nخواتین اور پریشانی(Urdu)"
+            }
+          },
+          {
+            "id": "3",
+            "score": 0.323604256,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "اس مالقات پر، آپ کا بنیادی نگہداشت کا ڈاکٹر دماغی صحت کی ابتدائی \nاسکریننگ کرے گا۔ وہاں سے، وہ آپ کو دماغی صحت کے ماہر کے پاس بھیج \nسکتے ہیں۔\nاپنی دیکھ بھال میں شامل ہوں۔ اپنے عالمات کے بارے میں کھل کر بات کریں \nاور اپنے اختیارات کو سنیں۔ ان اختیارات پر اپنی رائے دیں جو آپ کو لگتا ہے \nکہ آپ کے لیے موزوں ہو سکتی ہے۔ \nحمایت کے لیے ان لوگوں کی طرف رجوع کریں جن پر آپ اعتماد کرتے ہیں۔ \nجب آپ اضطراب کی خرابی کے ساتھ زندگی گزارتے ہیں، تو یہ آپ کی زندگی \nمیں ایسے لوگوں کو  شامل رکھنے میں مدد کرتا ہے جن پر آپ اعتماد کرتے \nہیں۔ ایسے دوستوں اور معاون گروپوں کو تالش کریں جن کے بارے میں آپ \nجانتے ہیں کہ وہ آپ کے خدشات کو سنیں گے اور مشکل وقت میں آپ کی مدد \nکریں گے۔ \nاگر آپ کو اپنی دماغی صحت کے بارے میں فوری خدشات ہیں تو خودکشی اور \n پر کال کریں یا پیغام بھیجیں۔ 988 بحران کی الئف الئن کو"
+            }
+          }
+        ]
+      },
+      "time_ms": 323.2
+    },
+    "اضطراب کیا ہے؟": {
+      "response": {
+        "namespace": "delimiter_labse",
+        "matches": [
+          {
+            "id": "0",
+            "score": 0.422487408,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "Logos of HHS and U.S. Food & Drug Administration\nاضطراب کیا ہے؟\n اضطراب کسی صورت حال یا کسی موقعے پر  پریشانی، گبھراہٹ اور خوف کی\n  کیفیت ہے۔ یہ ذہنی دبائو کے نتیجے میں پیدا ہونے واال معمول کا  رد عمل ہے۔\n  اضطراب کام پر چیلینجنگ صورتحال میں ہشیار رہنے میں، امتحان کے وقت\n پڑھائی پر محنت کرنے میں، یا پھر اہم تقریر کے موقعے پر  توجہ مرکوز کرنے\n میں  آ پکی مدد کرتا ہے۔ عام طور پر، یہ آپکو کسی بھی صورت حال سے نمٹنے\n میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ آپکی روز\nمرہ زندگی کو متاٴثر کرنے لگے تو یہ غیر فعال ہو سکتا ہے۔\nاضطراب کا عارضہ کیا ہے؟\n اضطراب کا مرض تب ہوتا ہے جب آپکی بڑھتی ہوئی پریشانی آپکی روزمرہ\n زندگی پر اثرانداز ہونے لگے جیسا کہ کام یا سکول  جانے  یا دوستوں اور\n خاندان کے ساتھ وقت گزارنے میں رکاوٹ ہو۔ اضطراب کا مرض سنگین ذہنی\nبیماری ہے۔\n اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں\n تقریبا چالیس ملین امریکیوں کو متاثر کرتا ہے۔ عورتوں کو زندگی بھر میں یہ\n مرض پیدا ہونے کے امکانات  مردوں کے مقابلے میں دوگنے ہیں۔ اضطراب کا\n مرض قابل عالج ہونے کے باوجود اس سے متاثر ہونے والے صرف سینتیس\nفیصد لوگوں کا ہی عالج ہو پاتا ہے۔\n اضطراب کے امراض کی اہم اقسام کونسی ہیں؟\n اضطراب کے امراض کی اہم اقسام بہت سی ہیں۔ انکی اپنی اپنی خصلتیں ہیں اور\n  وہ لوگوں کو مختلف طریقوں سے متاثر کرتی ہیں۔\n•  \n میں زندگی کے عام معامالت )اضطراب کے عمومی امراض (جی اے ڈی\n کے بارے میں، جیسے کہ خاندان یا آمدنی کے متعلق حد سے بڑھی ہوئی\n تشویش ہونا ہے۔ یہ روزانہ ہو سکتی ہے اور دن گزارنا یا رات کو سونا\n ًمشکل کر سکتی ہے۔  (جی اے ڈی) اور دوسرے اہم ذہنی دباوٴ عموما\nمریض کو اکٹھے متاٴثر کرتے ہیں۔\n•  \n اس میں بار بار اور اچانک گھبراہٹ کے دہشت زدہ ہونے کا عارضہ\n حملے شامل ہیں، جو کہ دہشت کے غیر متوقع احساسات ہیں جو بغیر کسی\n وارننگ کے ہوتے ہیں۔ گھبراہٹ کے حملے اس وقت ہوسکتے ہیں جب\nکوئی براہ راست خطرہ نہ ہو۔\n•  \n کسی چیز کا شدید خوف ہے جس سے کوئی خطرہ نہیں ہے۔ اس فوبیاس\n میں ہوائی سفر کرنا یا لوگوں کے ایک بڑے گروپ کے ارد گرد رہنا شامل\nہو سکتا ہے۔\n اضطراب کے عارضے کی عالمات کیا ہیں؟\n اضطراب کے عارضے کی عالمات  بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ\n سے اور آپ کے اضطراب کے عارضے کی قسم کے لحاظ سے مختلف ہو\n سکتی ہیں۔ عالمات آپ کے زندگی گزارنے اور دوسروں کے ساتھ وقت گزارنے\nکے طریقے پر بھی اثر انداز ہو سکتی ہیں۔\n بے چینی کی بہت سی عالمات ہیں۔ ذیل کی عالمات کئی قسم کے اضطراب کی\n :خرابیوں میں مشترک ہیں\n•  پریشان کن خیاالت یا عقائد\n•  خوف اور خوف کے احساسات\n•  جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی\n•  رویے میں تبدیلیاں جیسے پچھلی عام سرگرمیوں سے گریز کرنا\n اضطراب کے عارضے کی وجہ کیا ہے؟\n کئی عوامل اضطراب کی خرابی کے خطرے کو بڑھا سکتے ہیں۔ وہ ایک عورت\n سے دوسری عورت میں مختلف ہو سکتے ہیں۔ چند عام خطرے والے عوامل میں\n :شامل ہیں\n•  بچپن یا جوانی میں تکلیف دہ واقعات\n•  ماہواری کے دوران ہارمونل تبدیلیاں\n•  اضطراب یا دیگر ذہنی عوارض کی خاندانی تاریخ\n عام عالج کے اختیارات کیا ہیں؟\n کچھ لوگوں کے لیے، عالج سے اضطراب کی عالمات کو کم کرنے میں مدد\n مل سکتی ہے۔ اضطراب کے عالج کی کئی اقسام ہیں جو آپ کو ہر روز اپنی\n :عالمات کو منظم کرنے میں مدد فراہم کرتی ہیں، جیسے\n•  \n )مشاورت (سائیکو تھراپی یا ٹاک تھراپی\n عالج کی اس شکل میں تربیت یافتہ ذہنی صحت کے پیشہ ور سے بات کرنا\n شامل ہے۔ ایک ساتھ مل کر، آپ اپنی پریشانی پر قابو پانے کے لیے کام کر\nسکتے ہیں۔\n•  ادویات\n ادویات اضطراب کی خرابیوں کا عالج نہیں کرتی ہیں لیکن عالمات کو\n دور کرنے میں مدد کر سکتی ہیں۔ صحت کی دیکھ بھال فراہم کرنے والے\n اضطراب کے لیے دوائیں لکھ سکتے ہیں۔ اضطراب کے عوارض سے\n نمٹنے کے لیے استعمال ہونے والی دوائیوں کی سب سے عام مثالیں اینٹی\nڈپریسنٹس، اینٹی اینزائٹی دوائیں (جیسے بینزوڈیازپائنز) اور بیٹا بالکرز ہیں۔\n یہ جاننے کے لیے کہ آپ کے لیے کون سا عالج صحیح ہے اپنے صحت کی\n دیکھ بھال کرنے والے سے بات کریں۔ طبی عالج شروع کرنے یا بند کرنے سے\n پہلے آپ کو اپنے فراہم کنندہ سے خطرات، فوائد اور ضمنی اثرات کے بارے\nمیں بھی بات کرنی چاہیے۔\nخواتین کی صحت کا ایف ڈی اے آفس\nwww.fda.gov/womens \nخواتین اور پریشانی"
+            }
+          },
+          {
+            "id": "4",
+            "score": 0.358637542,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "یہ الئف الئن چوبیس گھنٹے دن رات، مصیبت میں گھرے لوگوں کے لیے مفت اور \nخفیہ مدد فراہم کرتی ہے، اور ریاستہائے متحدہ میں آپ یا آپ کے پیاروں کے لیے \n پر کال کریں اگر آپ یا آپ کا کوئی 911 بحران میں مددکے وسائل فراہم کرتی ہے۔\nجاننے واال فوری خطرے میں ہے یا قریبی ایمرجنسی روم میں جائیں۔\nآپ کو دورانِ حمل اضطراب کے بارے میں کیا \nجاننے کی ضرورت ہے؟ \nاگر آپ حاملہ ہونے کے بارے میں سوچ رہے ہیں، حاملہ ہیں، یا دودھ پال رہی \nہیں، تو آپ کو اپنے ہیلتھ کیئر فراہم کنندہ سے کسی بھی دوائیوں کے بارے \nمیں بات کرنی چاہیے جو آپ پریشانی یا اضطراب کے لیے لے رہی ہیں۔ کچھ \nدوائیں آپ کے غیر پیدائشی بچے کو متاثر کر سکتی ہیں، لیکن دماغی صحت \nکی حالتوں کا عالج نہ کیا جائے تو  یہ بھی غیر پیدائشی بچے کو  متاثر کر سکتا \nہے۔ کچھ دوائیں ماں کے دودھ کے ذریعے بھی آپ کے بچے تک پہنچ سکتی \nہیں۔ اپنے فراہم کنندہ سے اس بارے میں بات کریں کہ آپ اور آپ کے بچے کے \nلیے کون سے عالج محفوظ ہیں۔\nحمل کے دوران یا ایک نئی ماں کے طور پر، آپ بعض اوقات جذبات سے \nمغلوب محسوس کر سکتے ہیں۔ دماغی صحت کی مدد اور وسائل نیشنل میٹرنل \nمینٹل ہیلتھ ہاٹ الئن کے ذریعے دستیاب ہیں۔ یہ مفت، خفیہ اور دن رات چوبیس \n پر 1-833-9-HELP4MOMS (1-833-943-5746) گھنٹے دستیاب ہے۔\nفون کریں یا پیغام بھیجیں۔ \nطبی عالج کے تمام اختیارات کے بارے میں اپنے صحت کی دیکھ بھال فراہم \nکرنے والے سے بات کریں۔ ان کے خطرات اور فوائد پر تبادلہ خیال کریں۔ آپ کا \nفراہم کنندہ یا ڈاکٹر آپ کے تمام سواالت کے جوابات ایک ساتھ دے سکتا ہے، \nآپ فیصلہ کر سکتے ہیں کہ آپ کے لیے کون سا عالج صحیح ہے۔\n آفس آف وومنز ہیلتھ نے تیار کیا ہے۔ یہ معلومات تعلیمی مقاصد کے لیے ہے، اس میں تمام معلومات شامل نہیں ہیں، اور آپ کے FDA یہ حقائق نامہ\nصحت کی دیکھ بھال فراہم کرنے والے سے بات کرنے کی جگہ استعمال نہیں کی جانی چاہیے۔\nخواتین اور پریشانی کے بارے میں مزید جاننے کے لیے، یہاں جائیں: \nwww.fda.gov/womens\nMay 2023صحت کی علامتوں سے بھرا ہوا، ٹانگوں کے لئے، ڈی این اے ہیلکس والی خواتین کی منقش تصویر\nخواتین اور پریشانی\nخواتین اور پریشانی(Urdu)"
+            }
+          },
+          {
+            "id": "1",
+            "score": 0.347764492,
+            "metadata": {
+              "embedding_model_name": "LaBSE",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "میری جسمانی صحت کا میری ذہنی صحت پر کیا\n اثر پڑتا ہے؟\nجو لوگ جسمانی طور پر صحت مند نہیں ہیں انہیں ذہنی طور پر صحت مند \nرہنے میں دشواری کا سامنا کرنا پڑ سکتا ہے۔ ذیابیطس یا دل کی بیماری جیسے \nدائمی (طویل مدتی) صحت کے مسائل کے ساتھ رہنے والے لوگوں میں اکثر تناؤ \nاور اضطراب کی اعلی سطح کا امکان زیادہ ہوتا ہے۔ ایک دائمی بیماری ہونے \nکا مطلب ہمیشہ یہ نہیں ہوتا کہ آپ کو ذہنی صحت کی حالت خراب ہو گی جیسے \nاضطراب کی خرابی، لیکن اگر آپ دونوں کے ساتھ جدوجہد کر رہے ہیں تو \nجان لیں کہ آپ اکیلے نہیں ہیں۔ سپورٹ گروپس اور ہیلتھ کیئر پروفیشنلز مدد کر \nسکتے ہیں۔ صحت مند کھانا اور دیگر صحت مند عادات، جیسے ورزش، یوگا، \nیا مراقبہ جسمانی صحت کو بہتر بنانے اور اضطراب کو کم کرنے میں مدد کر \nسکتے ہیں۔\nپکو کیا کرنا چاہیےاگر آپ کو لگتا ہے کہ آپ کو \nانگذائٹی ہے؟ \nصحت کی دیکھ بھال فراہم کرنے والے یا ڈاکٹر سے ملنے کے لیے مالقات"
+            }
+          }
+        ]
+      },
+      "time_ms": 312.73
+    }
+  },
+  "fixed_xlm": {
+    "¿Cómo funciona la quimioterapia?": {
+      "response": {
+        "namespace": "fixed_xlm",
+        "matches": [
+          {
+            "id": "9",
+            "score": 0.372436374,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "عادات، جیسے ورزش، یوگا، یا مراقبہ جسمانی صحت کو بہتر بنانے اور اضطراب کو کم کرنے میں مدد کر سکتے ہیں۔ پکو کیا کرنا چاہیےاگر آپ کو لگتا ہے کہ آپ کو انگذائٹی ہے؟ صحت کی دیکھ بھال فراہم کرنے والے یا ڈاکٹر سے ملنے کے لیے مالقات کا وقت لیں۔ اس مالقات پر، آپ کا بنیادی نگہداشت کا ڈاکٹر دماغی صحت کی ابتدائی اسکریننگ کرے گا۔ وہاں سے، وہ آپ کو دماغی صحت کے ماہر کے پاس بھیج سکتے ہیں۔ اپنی دیکھ بھال میں شامل ہوں۔ اپنے عالمات کے بارے میں کھل کر بات کریں اور اپنے اختیارات کو"
+            }
+          },
+          {
+            "id": "7",
+            "score": 0.328569025,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "عام مثالیں اینٹی ڈپریسنٹس، اینٹی اینزائٹی دوائیں (جیسے بینزوڈیازپائنز) اور بیٹا بالکرز ہیں۔ یہ جاننے کے لیے کہ آپ کے لیے کون سا عالج صحیح ہے اپنے صحت کی دیکھ بھال کرنے والے سے بات کریں۔ طبی عالج شروع کرنے یا بند کرنے سے پہلے آپ کو اپنے فراہم کنندہ سے خطرات، فوائد اور ضمنی اثرات کے بارے میں بھی بات کرنی چاہیے۔ خواتین کی صحت کا ایف ڈی اے آفس www.fda.gov/womens خواتین اور پریشانی میری جسمانی صحت کا میری ذہنی صحت پر کیا اثر پڑتا ہے؟ جو لوگ جسمانی طور پر صحت مند نہیں ہیں انہیں ذہنی طور پر"
+            }
+          },
+          {
+            "id": "14",
+            "score": 0.313150525,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "ڈاکٹر آپ کے تمام سواالت کے جوابات ایک ساتھ دے سکتا ہے، آپ فیصلہ کر سکتے ہیں کہ آپ کے لیے کون سا عالج صحیح ہے۔ آفس آف وومنز ہیلتھ نے تیار کیا ہے۔ یہ معلومات تعلیمی مقاصد کے لیے ہے، اس میں تمام معلومات شامل نہیں ہیں، اور آپ کے FDA یہ حقائق نامہ صحت کی دیکھ بھال فراہم کرنے والے سے بات کرنے کی جگہ استعمال نہیں کی جانی چاہیے۔ خواتین اور پریشانی کے بارے میں مزید جاننے کے لیے، یہاں جائیں: www.fda.gov/womens May 2023صحت کی علامتوں سے بھرا ہوا، ٹانگوں کے لئے، ڈی این اے ہیلکس والی"
+            }
+          }
+        ]
+      },
+      "time_ms": 338.52
+    },
+    "اضطراب کیا ہے؟": {
+      "response": {
+        "namespace": "fixed_xlm",
+        "matches": [
+          {
+            "id": "4",
+            "score": 0.624856412,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "عالمات کیا ہیں؟ اضطراب کے عارضے کی عالمات بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ سے اور آپ کے اضطراب کے عارضے کی قسم کے لحاظ سے مختلف ہو سکتی ہیں۔ عالمات آپ کے زندگی گزارنے اور دوسروں کے ساتھ وقت گزارنے کے طریقے پر بھی اثر انداز ہو سکتی ہیں۔ بے چینی کی بہت سی عالمات ہیں۔ ذیل کی عالمات کئی قسم کے اضطراب کی :خرابیوں میں مشترک ہیں • پریشان کن خیاالت یا عقائد • خوف اور خوف کے احساسات • جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی • رویے میں تبدیلیاں جیسے پچھلی"
+            }
+          },
+          {
+            "id": "3",
+            "score": 0.500063837,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "سکتی ہے۔ (جی اے ڈی) اور دوسرے اہم ذہنی دباوٴ عموما مریض کو اکٹھے متاٴثر کرتے ہیں۔ • اس میں بار بار اور اچانک گھبراہٹ کے دہشت زدہ ہونے کا عارضہ حملے شامل ہیں، جو کہ دہشت کے غیر متوقع احساسات ہیں جو بغیر کسی وارننگ کے ہوتے ہیں۔ گھبراہٹ کے حملے اس وقت ہوسکتے ہیں جب کوئی براہ راست خطرہ نہ ہو۔ • کسی چیز کا شدید خوف ہے جس سے کوئی خطرہ نہیں ہے۔ اس فوبیاس میں ہوائی سفر کرنا یا لوگوں کے ایک بڑے گروپ کے ارد گرد رہنا شامل ہو سکتا ہے۔ اضطراب کے عارضے کی"
+            }
+          },
+          {
+            "id": "15",
+            "score": 0.436220706,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "خواتین کی منقش تصویر خواتین اور پریشانی خواتین اور پریشانی(Urdu)"
+            }
+          }
+        ]
+      },
+      "time_ms": 389.08
+    }
+  },
+  "overlap_xlm": {
+    "¿Cómo funciona la quimioterapia?": {
+      "response": {
+        "namespace": "overlap_xlm",
+        "matches": [
+          {
+            "id": "17",
+            "score": 0.342016429,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "دستیاب ہے۔ فون کریں یا پیغام بھیجیں۔ طبی عالج کے تمام اختیارات کے بارے میں اپنے صحت کی دیکھ بھال فراہم کرنے والے سے بات کریں۔ ان کے خطرات اور فوائد پر تبادلہ خیال کریں۔ آپ کا فراہم کنندہ یا ڈاکٹر آپ کے تمام سواالت کے جوابات ایک ساتھ دے سکتا ہے، آپ فیصلہ کر سکتے ہیں کہ آپ کے لیے کون سا عالج صحیح ہے۔ آفس آف وومنز ہیلتھ نے تیار کیا ہے۔ یہ معلومات تعلیمی مقاصد کے لیے ہے، اس میں تمام معلومات شامل نہیں ہیں، اور آپ کے FDA یہ حقائق نامہ صحت کی دیکھ بھال فراہم"
+            }
+          },
+          {
+            "id": "11",
+            "score": 0.282298744,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "اکیلے نہیں ہیں۔ سپورٹ گروپس اور ہیلتھ کیئر پروفیشنلز مدد کر سکتے ہیں۔ صحت مند کھانا اور دیگر صحت مند عادات، جیسے ورزش، یوگا، یا مراقبہ جسمانی صحت کو بہتر بنانے اور اضطراب کو کم کرنے میں مدد کر سکتے ہیں۔ پکو کیا کرنا چاہیےاگر آپ کو لگتا ہے کہ آپ کو انگذائٹی ہے؟ صحت کی دیکھ بھال فراہم کرنے والے یا ڈاکٹر سے ملنے کے لیے مالقات کا وقت لیں۔ اس مالقات پر، آپ کا بنیادی نگہداشت کا ڈاکٹر دماغی صحت کی ابتدائی اسکریننگ کرے گا۔ وہاں سے، وہ آپ کو دماغی صحت کے ماہر کے پاس بھیج سکتے"
+            }
+          },
+          {
+            "id": "16",
+            "score": 0.269492328,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "دودھ کے ذریعے بھی آپ کے بچے تک پہنچ سکتی ہیں۔ اپنے فراہم کنندہ سے اس بارے میں بات کریں کہ آپ اور آپ کے بچے کے لیے کون سے عالج محفوظ ہیں۔ حمل کے دوران یا ایک نئی ماں کے طور پر، آپ بعض اوقات جذبات سے مغلوب محسوس کر سکتے ہیں۔ دماغی صحت کی مدد اور وسائل نیشنل میٹرنل مینٹل ہیلتھ ہاٹ الئن کے ذریعے دستیاب ہیں۔ یہ مفت، خفیہ اور دن رات چوبیس پر 1-833-9-HELP4MOMS (1-833-943-5746) گھنٹے دستیاب ہے۔ فون کریں یا پیغام بھیجیں۔ طبی عالج کے تمام اختیارات کے بارے میں اپنے صحت کی دیکھ بھال"
+            }
+          }
+        ]
+      },
+      "time_ms": 302.87
+    },
+    "اضطراب کیا ہے؟": {
+      "response": {
+        "namespace": "overlap_xlm",
+        "matches": [
+          {
+            "id": "5",
+            "score": 0.624856412,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "عالمات کیا ہیں؟ اضطراب کے عارضے کی عالمات بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ سے اور آپ کے اضطراب کے عارضے کی قسم کے لحاظ سے مختلف ہو سکتی ہیں۔ عالمات آپ کے زندگی گزارنے اور دوسروں کے ساتھ وقت گزارنے کے طریقے پر بھی اثر انداز ہو سکتی ہیں۔ بے چینی کی بہت سی عالمات ہیں۔ ذیل کی عالمات کئی قسم کے اضطراب کی :خرابیوں میں مشترک ہیں • پریشان کن خیاالت یا عقائد • خوف اور خوف کے احساسات • جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی • رویے میں تبدیلیاں جیسے پچھلی"
+            }
+          },
+          {
+            "id": "6",
+            "score": 0.57174021,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "اور خوف کے احساسات • جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی • رویے میں تبدیلیاں جیسے پچھلی عام سرگرمیوں سے گریز کرنا اضطراب کے عارضے کی وجہ کیا ہے؟ کئی عوامل اضطراب کی خرابی کے خطرے کو بڑھا سکتے ہیں۔ وہ ایک عورت سے دوسری عورت میں مختلف ہو سکتے ہیں۔ چند عام خطرے والے عوامل میں :شامل ہیں • بچپن یا جوانی میں تکلیف دہ واقعات • ماہواری کے دوران ہارمونل تبدیلیاں • اضطراب یا دیگر ذہنی عوارض کی خاندانی تاریخ عام عالج کے اختیارات کیا ہیں؟ کچھ لوگوں کے لیے، عالج سے اضطراب کی عالمات"
+            }
+          },
+          {
+            "id": "4",
+            "score": 0.474265963,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "بار بار اور اچانک گھبراہٹ کے دہشت زدہ ہونے کا عارضہ حملے شامل ہیں، جو کہ دہشت کے غیر متوقع احساسات ہیں جو بغیر کسی وارننگ کے ہوتے ہیں۔ گھبراہٹ کے حملے اس وقت ہوسکتے ہیں جب کوئی براہ راست خطرہ نہ ہو۔ • کسی چیز کا شدید خوف ہے جس سے کوئی خطرہ نہیں ہے۔ اس فوبیاس میں ہوائی سفر کرنا یا لوگوں کے ایک بڑے گروپ کے ارد گرد رہنا شامل ہو سکتا ہے۔ اضطراب کے عارضے کی عالمات کیا ہیں؟ اضطراب کے عارضے کی عالمات بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ سے اور آپ"
+            }
+          }
+        ]
+      },
+      "time_ms": 335.42
+    }
+  },
+  "semantic_nltk_xlm": {
+    "¿Cómo funciona la quimioterapia?": {
+      "response": {
+        "namespace": "semantic_nltk_xlm",
+        "matches": [
+          {
+            "id": "4",
+            "score": 0.544519901,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "Preparación para la \nquimioterapia\nSi la quimioterapia es parte de su \ntratamiento, hable con su equipo de \nprofesionales que atiende su salud sobre lo \nque debe esperar. Esto le ayudará a planear \nlos cambios en su horario del trabajo o la \nfamilia, si son necesarios. Quimioterapia para el cáncer\nChemotherapy for Cancer – Spanish\n\nEfectos secundarios de la \nquimioterapia\nLa quimioterapia daña algunas células \nsanas normales, y esto puede causar \nefectos secundarios. Como los efectos \nsecundarios dependen de la quimioterapia \nque se administra, no todas las personas \nque reciben este tratamiento tendrán \nlos mismos efectos secundarios."
+            }
+          },
+          {
+            "id": "2",
+            "score": 0.528748,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "En algunos tratamientos con quimioterapia, \nes posible que la persona deba ser \ninternada por uno o más días. Solo algunos \ntipos de quimioterapia se pueden \nadministrar en el hogar. ¿Con qué frecuencia se \nadministra la quimioterapia y \ncuánto dura? Como el tratamiento de cada persona \nes diferente, la frecuencia con la que se \nadministra y su duración también pueden \nser diferentes. La quimioterapia a menudo se administra \nen ciclos. Esto significa que la quimioterapia \nse administra y luego le sigue un periodo de \ndescanso."
+            }
+          },
+          {
+            "id": "7",
+            "score": 0.518971145,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "•  ¿Con qué frecuencia recibiré el \ntratamiento? •  ¿Habrá periodos de descanso entre los \nciclos de tratamiento? •  ¿Cuánto durará mi tratamiento? •  ¿Adónde iré a recibir mi tratamiento? •  ¿Puedo conducir al tratamiento? •  ¿Necesitaré recibir otros tipos de \ntratamiento? •  ¿Qué efectos secundarios podría tener? •  ¿Cómo se tratarán mis efectos secundarios \ny qué puedo hacer al respecto? •  ¿Puedo continuar tomando mis otros \nmedicamentos o suplementos durante el \ntratamiento? •  ¿Cubrirá el  seguro médico mi tratamiento? ¿Cuánto tendré que pagar? •  ¿Podré trabajar y hacer mis actividades \nhabituales durante el tratamiento?"
+            }
+          }
+        ]
+      },
+      "time_ms": 316.81
+    },
+    "اضطراب کیا ہے؟": {
+      "response": {
+        "namespace": "semantic_nltk_xlm",
+        "matches": [
+          {
+            "id": "0",
+            "score": 0.354225129,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": ""
+            }
+          },
+          {
+            "id": "1",
+            "score": 0.343804121,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "Logos of HHS and U.S. Food & Drug Administration\nاضطراب کیا ہے؟\n اضطراب کسی صورت حال یا کسی موقعے پر  پریشانی، گبھراہٹ اور خوف کی\n  کیفیت ہے۔ یہ ذہنی دبائو کے نتیجے میں پیدا ہونے واال معمول کا  رد عمل ہے۔\n  اضطراب کام پر چیلینجنگ صورتحال میں ہشیار رہنے میں، امتحان کے وقت\n پڑھائی پر محنت کرنے میں، یا پھر اہم تقریر کے موقعے پر  توجہ مرکوز کرنے\n میں  آ پکی مدد کرتا ہے۔ عام طور پر، یہ آپکو کسی بھی صورت حال سے نمٹنے\n میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ آپکی روز\nمرہ زندگی کو متاٴثر کرنے لگے تو یہ غیر فعال ہو سکتا ہے۔\nاضطراب کا عارضہ کیا ہے؟\n اضطراب کا مرض تب ہوتا ہے جب آپکی بڑھتی ہوئی پریشانی آپکی روزمرہ\n زندگی پر اثرانداز ہونے لگے جیسا کہ کام یا سکول  جانے  یا دوستوں اور\n خاندان کے ساتھ وقت گزارنے میں رکاوٹ ہو۔ اضطراب کا مرض سنگین ذہنی\nبیماری ہے۔\n اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں\n تقریبا چالیس ملین امریکیوں کو متاثر کرتا ہے۔ عورتوں کو زندگی بھر میں یہ\n مرض پیدا ہونے کے امکانات  مردوں کے مقابلے میں دوگنے ہیں۔ اضطراب کا\n مرض قابل عالج ہونے کے باوجود اس سے متاثر ہونے والے صرف سینتیس\nفیصد لوگوں کا ہی عالج ہو پاتا ہے۔\n اضطراب کے امراض کی اہم اقسام کونسی ہیں؟\n اضطراب کے امراض کی اہم اقسام بہت سی ہیں۔ انکی اپنی اپنی خصلتیں ہیں اور\n  وہ لوگوں کو مختلف طریقوں سے متاثر کرتی ہیں۔\n•  \n میں زندگی کے عام معامالت )اضطراب کے عمومی امراض (جی اے ڈی\n کے بارے میں، جیسے کہ خاندان یا آمدنی کے متعلق حد سے بڑھی ہوئی\n تشویش ہونا ہے۔ یہ روزانہ ہو سکتی ہے اور دن گزارنا یا رات کو سونا\n ًمشکل کر سکتی ہے۔  (جی اے ڈی) اور دوسرے اہم ذہنی دباوٴ عموما\nمریض کو اکٹھے متاٴثر کرتے ہیں۔\n•  \n اس میں بار بار اور اچانک گھبراہٹ کے دہشت زدہ ہونے کا عارضہ\n حملے شامل ہیں، جو کہ دہشت کے غیر متوقع احساسات ہیں جو بغیر کسی\n وارننگ کے ہوتے ہیں۔ گھبراہٹ کے حملے اس وقت ہوسکتے ہیں جب\nکوئی براہ راست خطرہ نہ ہو۔\n•  \n کسی چیز کا شدید خوف ہے جس سے کوئی خطرہ نہیں ہے۔ اس فوبیاس\n میں ہوائی سفر کرنا یا لوگوں کے ایک بڑے گروپ کے ارد گرد رہنا شامل\nہو سکتا ہے۔\n اضطراب کے عارضے کی عالمات کیا ہیں؟\n اضطراب کے عارضے کی عالمات  بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ\n سے اور آپ کے اضطراب کے عارضے کی قسم کے لحاظ سے مختلف ہو\n سکتی ہیں۔ عالمات آپ کے زندگی گزارنے اور دوسروں کے ساتھ وقت گزارنے\nکے طریقے پر بھی اثر انداز ہو سکتی ہیں۔\n بے چینی کی بہت سی عالمات ہیں۔ ذیل کی عالمات کئی قسم کے اضطراب کی\n :خرابیوں میں مشترک ہیں\n•  پریشان کن خیاالت یا عقائد\n•  خوف اور خوف کے احساسات\n•  جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی\n•  رویے میں تبدیلیاں جیسے پچھلی عام سرگرمیوں سے گریز کرنا\n اضطراب کے عارضے کی وجہ کیا ہے؟\n کئی عوامل اضطراب کی خرابی کے خطرے کو بڑھا سکتے ہیں۔ وہ ایک عورت\n سے دوسری عورت میں مختلف ہو سکتے ہیں۔ چند عام خطرے والے عوامل میں\n :شامل ہیں\n•  بچپن یا جوانی میں تکلیف دہ واقعات\n•  ماہواری کے دوران ہارمونل تبدیلیاں\n•  اضطراب یا دیگر ذہنی عوارض کی خاندانی تاریخ\n عام عالج کے اختیارات کیا ہیں؟\n کچھ لوگوں کے لیے، عالج سے اضطراب کی عالمات کو کم کرنے میں مدد\n مل سکتی ہے۔ اضطراب کے عالج کی کئی اقسام ہیں جو آپ کو ہر روز اپنی\n :عالمات کو منظم کرنے میں مدد فراہم کرتی ہیں، جیسے\n•  \n )مشاورت (سائیکو تھراپی یا ٹاک تھراپی\n عالج کی اس شکل میں تربیت یافتہ ذہنی صحت کے پیشہ ور سے بات کرنا\n شامل ہے۔ ایک ساتھ مل کر، آپ اپنی پریشانی پر قابو پانے کے لیے کام کر\nسکتے ہیں۔\n•  ادویات\n ادویات اضطراب کی خرابیوں کا عالج نہیں کرتی ہیں لیکن عالمات کو\n دور کرنے میں مدد کر سکتی ہیں۔ صحت کی دیکھ بھال فراہم کرنے والے\n اضطراب کے لیے دوائیں لکھ سکتے ہیں۔ اضطراب کے عوارض سے\n نمٹنے کے لیے استعمال ہونے والی دوائیوں کی سب سے عام مثالیں اینٹی\nڈپریسنٹس، اینٹی اینزائٹی دوائیں (جیسے بینزوڈیازپائنز) اور بیٹا بالکرز ہیں۔\n یہ جاننے کے لیے کہ آپ کے لیے کون سا عالج صحیح ہے اپنے صحت کی\n دیکھ بھال کرنے والے سے بات کریں۔ طبی عالج شروع کرنے یا بند کرنے سے\n پہلے آپ کو اپنے فراہم کنندہ سے خطرات، فوائد اور ضمنی اثرات کے بارے\nمیں بھی بات کرنی چاہیے۔\nخواتین کی صحت کا ایف ڈی اے آفس\nwww.fda.gov/womens \nخواتین اور پریشانی\n\n میری جسمانی صحت کا میری ذہنی صحت پر کیا\n اثر پڑتا ہے؟\nجو لوگ جسمانی طور پر صحت مند نہیں ہیں انہیں ذہنی طور پر صحت مند \nرہنے میں دشواری کا سامنا کرنا پڑ سکتا ہے۔ ذیابیطس یا دل کی بیماری جیسے \nدائمی (طویل مدتی) صحت کے مسائل کے ساتھ رہنے والے لوگوں میں اکثر تناؤ \nاور اضطراب کی اعلی سطح کا امکان زیادہ ہوتا ہے۔ ایک دائمی بیماری ہونے \nکا مطلب ہمیشہ یہ نہیں ہوتا کہ آپ کو ذہنی صحت کی حالت خراب ہو گی جیسے \nاضطراب کی خرابی، لیکن اگر آپ دونوں کے ساتھ جدوجہد کر رہے ہیں تو \nجان لیں کہ آپ اکیلے نہیں ہیں۔ سپورٹ گروپس اور ہیلتھ کیئر پروفیشنلز مدد کر \nسکتے ہیں۔ صحت مند کھانا اور دیگر صحت مند عادات، جیسے ورزش، یوگا، \nیا مراقبہ جسمانی صحت کو بہتر بنانے اور اضطراب کو کم کرنے میں مدد کر \nسکتے ہیں۔\nپکو کیا کرنا چاہیےاگر آپ کو لگتا ہے کہ آپ کو \nانگذائٹی ہے؟ \nصحت کی دیکھ بھال فراہم کرنے والے یا ڈاکٹر سے ملنے کے لیے مالقات \n\nکا وقت لیں۔ \n\nاس مالقات پر، آپ کا بنیادی نگہداشت کا ڈاکٹر دماغی صحت کی ابتدائی \nاسکریننگ کرے گا۔ وہاں سے، وہ آپ کو دماغی صحت کے ماہر کے پاس بھیج \nسکتے ہیں۔\nاپنی دیکھ بھال میں شامل ہوں۔ اپنے عالمات کے بارے میں کھل کر بات کریں \nاور اپنے اختیارات کو سنیں۔ ان اختیارات پر اپنی رائے دیں جو آپ کو لگتا ہے \nکہ آپ کے لیے موزوں ہو سکتی ہے۔ \nحمایت کے لیے ان لوگوں کی طرف رجوع کریں جن پر آپ اعتماد کرتے ہیں۔ \nجب آپ اضطراب کی خرابی کے ساتھ زندگی گزارتے ہیں، تو یہ آپ کی زندگی \nمیں ایسے لوگوں کو  شامل رکھنے میں مدد کرتا ہے جن پر آپ اعتماد کرتے \nہیں۔ ایسے دوستوں اور معاون گروپوں کو تالش کریں جن کے بارے میں آپ \nجانتے ہیں کہ وہ آپ کے خدشات کو سنیں گے اور مشکل وقت میں آپ کی مدد \nکریں گے۔ \nاگر آپ کو اپنی دماغی صحت کے بارے میں فوری خدشات ہیں تو خودکشی اور \n پر کال کریں یا پیغام بھیجیں۔ 988 بحران کی الئف الئن کو\n\nیہ الئف الئن چوبیس گھنٹے دن رات، مصیبت میں گھرے لوگوں کے لیے مفت اور \nخفیہ مدد فراہم کرتی ہے، اور ریاستہائے متحدہ میں آپ یا آپ کے پیاروں کے لیے \n پر کال کریں اگر آپ یا آپ کا کوئی 911 بحران میں مددکے وسائل فراہم کرتی ہے۔\nجاننے واال فوری خطرے میں ہے یا قریبی ایمرجنسی روم میں جائیں۔\nآپ کو دورانِ حمل اضطراب کے بارے میں کیا \nجاننے کی ضرورت ہے؟ \nاگر آپ حاملہ ہونے کے بارے میں سوچ رہے ہیں، حاملہ ہیں، یا دودھ پال رہی \nہیں، تو آپ کو اپنے ہیلتھ کیئر فراہم کنندہ سے کسی بھی دوائیوں کے بارے \nمیں بات کرنی چاہیے جو آپ پریشانی یا اضطراب کے لیے لے رہی ہیں۔ کچھ \nدوائیں آپ کے غیر پیدائشی بچے کو متاثر کر سکتی ہیں، لیکن دماغی صحت \nکی حالتوں کا عالج نہ کیا جائے تو  یہ بھی غیر پیدائشی بچے کو  متاثر کر سکتا \nہے۔ کچھ دوائیں ماں کے دودھ کے ذریعے بھی آپ کے بچے تک پہنچ سکتی \nہیں۔ اپنے فراہم کنندہ سے اس بارے میں بات کریں کہ آپ اور آپ کے بچے کے \nلیے کون سے عالج محفوظ ہیں۔\nحمل کے دوران یا ایک نئی ماں کے طور پر، آپ بعض اوقات جذبات سے \nمغلوب محسوس کر سکتے ہیں۔ دماغی صحت کی مدد اور وسائل نیشنل میٹرنل \nمینٹل ہیلتھ ہاٹ الئن کے ذریعے دستیاب ہیں۔ یہ مفت، خفیہ اور دن رات چوبیس \n پر 1-833-9-HELP4MOMS (1-833-943-5746) گھنٹے دستیاب ہے۔\nفون کریں یا پیغام بھیجیں۔ \nطبی عالج کے تمام اختیارات کے بارے میں اپنے صحت کی دیکھ بھال فراہم \nکرنے والے سے بات کریں۔ ان کے خطرات اور فوائد پر تبادلہ خیال کریں۔ آپ کا \nفراہم کنندہ یا ڈاکٹر آپ کے تمام سواالت کے جوابات ایک ساتھ دے سکتا ہے، \nآپ فیصلہ کر سکتے ہیں کہ آپ کے لیے کون سا عالج صحیح ہے۔\n آفس آف وومنز ہیلتھ نے تیار کیا ہے۔ یہ معلومات تعلیمی مقاصد کے لیے ہے، اس میں تمام معلومات شامل نہیں ہیں، اور آپ کے FDA یہ حقائق نامہ\nصحت کی دیکھ بھال فراہم کرنے والے سے بات کرنے کی جگہ استعمال نہیں کی جانی چاہیے۔\nخواتین اور پریشانی کے بارے میں مزید جاننے کے لیے، یہاں جائیں: \nwww.fda.gov/womens\nMay 2023صحت کی علامتوں سے بھرا ہوا، ٹانگوں کے لئے، ڈی این اے ہیلکس والی خواتین کی منقش تصویر\nخواتین اور پریشانی\nخواتین اور پریشانی(Urdu)"
+            }
+          },
+          {
+            "id": "6",
+            "score": 0.311577976,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "Algunos efectos secundarios frecuentes \npodrían incluir:\n•  Náuseas y vómitos\n•  Caída de pelo\n•  Diarrea o estreñimiento\n•  Debilidad y cansancio\n•  Fiebre o escalofríos\n•  Recuento bajo de células sanguíneas \nque pudiera ponerlo en mayor riesgo de \ninfecciones o sangrado\n•  Cambios en el sentido del gusto o en el \napetito\n•  Problemas en la piel\n•  Dolor o llagas en la boca\n•  Otros problemas, dependiendo del tipo de \nquimioterapia que reciba\nPreguntas que debe hacer\nEstas son algunas preguntas que \npuede hacer a su médico y al equipo de \nprofesionales que atiende su salud:\n•  ¿Qué medicamentos quimioterapéuticos \nrecibiré?"
+            }
+          }
+        ]
+      },
+      "time_ms": 314.17
+    }
+  },
+  "dynamic_xlm": {
+    "¿Cómo funciona la quimioterapia?": {
+      "response": {
+        "namespace": "dynamic_xlm",
+        "matches": [
+          {
+            "id": "1",
+            "score": 0.655139923,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "Muchos tipos de quimioterapia se \nadministran como infusión por vía \nintravenosa, o sea en una vena. Otros \ntipos se pueden administrar en forma de \ninyección, o se pueden tomar como un \ncomprimido. La quimioterapia puede ser \nel único tratamiento que se necesita para \nalgunos cánceres. O, algunas veces se \npuede administrar con otros tratamientos \ncomo cirugía, radiación, terapia hormonal, \nterapia dirigida o inmunoterapia. ¿Dónde reciben quimioterapia \nlas personas? Con frecuencia la quimioterapia se \nadministra en una clínica o centro de \ntratamiento para pacientes ambulatorios. En algunos tratamientos con quimioterapia, \nes posible que la persona deba ser \ninternada por uno o más días."
+            }
+          },
+          {
+            "id": "2",
+            "score": 0.566050589,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "Solo algunos \ntipos de quimioterapia se pueden \nadministrar en el hogar. ¿Con qué frecuencia se \nadministra la quimioterapia y \ncuánto dura? Como el tratamiento de cada persona \nes diferente, la frecuencia con la que se \nadministra y su duración también pueden \nser diferentes. La quimioterapia a menudo se administra \nen ciclos. Esto significa que la quimioterapia \nse administra y luego le sigue un periodo de \ndescanso. Este periodo de descanso permite \nque el cuerpo se recupere de los efectos \nsecundarios antes de que se administre el \nsiguiente tratamiento. Por ejemplo, se podría administrar la \nquimioterapia uno o más días a la semana, \nseguida de un par de semanas de descanso."
+            }
+          },
+          {
+            "id": "8",
+            "score": 0.560907185,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "cancer.org/es  |  1.800.227.2345\nPara obtener información sobre el cáncer, ayuda diaria y apoyo, llame a la  \nSociedad Americana Contra El Cáncer al 1-800-227-2345 o visítenos  \nen línea en cancer.org/chemotherapy. Estamos aquí cuando usted nos necesite."
+            }
+          }
+        ]
+      },
+      "time_ms": 311.02
+    },
+    "اضطراب کیا ہے؟": {
+      "response": {
+        "namespace": "dynamic_xlm",
+        "matches": [
+          {
+            "id": "0",
+            "score": 0.343804121,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "Logos of HHS and U.S. Food & Drug Administration\nاضطراب کیا ہے؟\n اضطراب کسی صورت حال یا کسی موقعے پر  پریشانی، گبھراہٹ اور خوف کی\n  کیفیت ہے۔ یہ ذہنی دبائو کے نتیجے میں پیدا ہونے واال معمول کا  رد عمل ہے۔\n  اضطراب کام پر چیلینجنگ صورتحال میں ہشیار رہنے میں، امتحان کے وقت\n پڑھائی پر محنت کرنے میں، یا پھر اہم تقریر کے موقعے پر  توجہ مرکوز کرنے\n میں  آ پکی مدد کرتا ہے۔ عام طور پر، یہ آپکو کسی بھی صورت حال سے نمٹنے\n میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ آپکی روز\nمرہ زندگی کو متاٴثر کرنے لگے تو یہ غیر فعال ہو سکتا ہے۔\nاضطراب کا عارضہ کیا ہے؟\n اضطراب کا مرض تب ہوتا ہے جب آپکی بڑھتی ہوئی پریشانی آپکی روزمرہ\n زندگی پر اثرانداز ہونے لگے جیسا کہ کام یا سکول  جانے  یا دوستوں اور\n خاندان کے ساتھ وقت گزارنے میں رکاوٹ ہو۔ اضطراب کا مرض سنگین ذہنی\nبیماری ہے۔\n اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں\n تقریبا چالیس ملین امریکیوں کو متاثر کرتا ہے۔ عورتوں کو زندگی بھر میں یہ\n مرض پیدا ہونے کے امکانات  مردوں کے مقابلے میں دوگنے ہیں۔ اضطراب کا\n مرض قابل عالج ہونے کے باوجود اس سے متاثر ہونے والے صرف سینتیس\nفیصد لوگوں کا ہی عالج ہو پاتا ہے۔\n اضطراب کے امراض کی اہم اقسام کونسی ہیں؟\n اضطراب کے امراض کی اہم اقسام بہت سی ہیں۔ انکی اپنی اپنی خصلتیں ہیں اور\n  وہ لوگوں کو مختلف طریقوں سے متاثر کرتی ہیں۔\n•  \n میں زندگی کے عام معامالت )اضطراب کے عمومی امراض (جی اے ڈی\n کے بارے میں، جیسے کہ خاندان یا آمدنی کے متعلق حد سے بڑھی ہوئی\n تشویش ہونا ہے۔ یہ روزانہ ہو سکتی ہے اور دن گزارنا یا رات کو سونا\n ًمشکل کر سکتی ہے۔  (جی اے ڈی) اور دوسرے اہم ذہنی دباوٴ عموما\nمریض کو اکٹھے متاٴثر کرتے ہیں۔\n•  \n اس میں بار بار اور اچانک گھبراہٹ کے دہشت زدہ ہونے کا عارضہ\n حملے شامل ہیں، جو کہ دہشت کے غیر متوقع احساسات ہیں جو بغیر کسی\n وارننگ کے ہوتے ہیں۔ گھبراہٹ کے حملے اس وقت ہوسکتے ہیں جب\nکوئی براہ راست خطرہ نہ ہو۔\n•  \n کسی چیز کا شدید خوف ہے جس سے کوئی خطرہ نہیں ہے۔ اس فوبیاس\n میں ہوائی سفر کرنا یا لوگوں کے ایک بڑے گروپ کے ارد گرد رہنا شامل\nہو سکتا ہے۔\n اضطراب کے عارضے کی عالمات کیا ہیں؟\n اضطراب کے عارضے کی عالمات  بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ\n سے اور آپ کے اضطراب کے عارضے کی قسم کے لحاظ سے مختلف ہو\n سکتی ہیں۔ عالمات آپ کے زندگی گزارنے اور دوسروں کے ساتھ وقت گزارنے\nکے طریقے پر بھی اثر انداز ہو سکتی ہیں۔\n بے چینی کی بہت سی عالمات ہیں۔ ذیل کی عالمات کئی قسم کے اضطراب کی\n :خرابیوں میں مشترک ہیں\n•  پریشان کن خیاالت یا عقائد\n•  خوف اور خوف کے احساسات\n•  جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی\n•  رویے میں تبدیلیاں جیسے پچھلی عام سرگرمیوں سے گریز کرنا\n اضطراب کے عارضے کی وجہ کیا ہے؟\n کئی عوامل اضطراب کی خرابی کے خطرے کو بڑھا سکتے ہیں۔ وہ ایک عورت\n سے دوسری عورت میں مختلف ہو سکتے ہیں۔ چند عام خطرے والے عوامل میں\n :شامل ہیں\n•  بچپن یا جوانی میں تکلیف دہ واقعات\n•  ماہواری کے دوران ہارمونل تبدیلیاں\n•  اضطراب یا دیگر ذہنی عوارض کی خاندانی تاریخ\n عام عالج کے اختیارات کیا ہیں؟\n کچھ لوگوں کے لیے، عالج سے اضطراب کی عالمات کو کم کرنے میں مدد\n مل سکتی ہے۔ اضطراب کے عالج کی کئی اقسام ہیں جو آپ کو ہر روز اپنی\n :عالمات کو منظم کرنے میں مدد فراہم کرتی ہیں، جیسے\n•  \n )مشاورت (سائیکو تھراپی یا ٹاک تھراپی\n عالج کی اس شکل میں تربیت یافتہ ذہنی صحت کے پیشہ ور سے بات کرنا\n شامل ہے۔ ایک ساتھ مل کر، آپ اپنی پریشانی پر قابو پانے کے لیے کام کر\nسکتے ہیں۔\n•  ادویات\n ادویات اضطراب کی خرابیوں کا عالج نہیں کرتی ہیں لیکن عالمات کو\n دور کرنے میں مدد کر سکتی ہیں۔ صحت کی دیکھ بھال فراہم کرنے والے\n اضطراب کے لیے دوائیں لکھ سکتے ہیں۔ اضطراب کے عوارض سے\n نمٹنے کے لیے استعمال ہونے والی دوائیوں کی سب سے عام مثالیں اینٹی\nڈپریسنٹس، اینٹی اینزائٹی دوائیں (جیسے بینزوڈیازپائنز) اور بیٹا بالکرز ہیں۔\n یہ جاننے کے لیے کہ آپ کے لیے کون سا عالج صحیح ہے اپنے صحت کی\n دیکھ بھال کرنے والے سے بات کریں۔ طبی عالج شروع کرنے یا بند کرنے سے\n پہلے آپ کو اپنے فراہم کنندہ سے خطرات، فوائد اور ضمنی اثرات کے بارے\nمیں بھی بات کرنی چاہیے۔\nخواتین کی صحت کا ایف ڈی اے آفس\nwww.fda.gov/womens \nخواتین اور پریشانی\n\n میری جسمانی صحت کا میری ذہنی صحت پر کیا\n اثر پڑتا ہے؟\nجو لوگ جسمانی طور پر صحت مند نہیں ہیں انہیں ذہنی طور پر صحت مند \nرہنے میں دشواری کا سامنا کرنا پڑ سکتا ہے۔ ذیابیطس یا دل کی بیماری جیسے \nدائمی (طویل مدتی) صحت کے مسائل کے ساتھ رہنے والے لوگوں میں اکثر تناؤ \nاور اضطراب کی اعلی سطح کا امکان زیادہ ہوتا ہے۔ ایک دائمی بیماری ہونے \nکا مطلب ہمیشہ یہ نہیں ہوتا کہ آپ کو ذہنی صحت کی حالت خراب ہو گی جیسے \nاضطراب کی خرابی، لیکن اگر آپ دونوں کے ساتھ جدوجہد کر رہے ہیں تو \nجان لیں کہ آپ اکیلے نہیں ہیں۔ سپورٹ گروپس اور ہیلتھ کیئر پروفیشنلز مدد کر \nسکتے ہیں۔ صحت مند کھانا اور دیگر صحت مند عادات، جیسے ورزش، یوگا، \nیا مراقبہ جسمانی صحت کو بہتر بنانے اور اضطراب کو کم کرنے میں مدد کر \nسکتے ہیں۔\nپکو کیا کرنا چاہیےاگر آپ کو لگتا ہے کہ آپ کو \nانگذائٹی ہے؟ \nصحت کی دیکھ بھال فراہم کرنے والے یا ڈاکٹر سے ملنے کے لیے مالقات \n\nکا وقت لیں۔ \n\nاس مالقات پر، آپ کا بنیادی نگہداشت کا ڈاکٹر دماغی صحت کی ابتدائی \nاسکریننگ کرے گا۔ وہاں سے، وہ آپ کو دماغی صحت کے ماہر کے پاس بھیج \nسکتے ہیں۔\nاپنی دیکھ بھال میں شامل ہوں۔ اپنے عالمات کے بارے میں کھل کر بات کریں \nاور اپنے اختیارات کو سنیں۔ ان اختیارات پر اپنی رائے دیں جو آپ کو لگتا ہے \nکہ آپ کے لیے موزوں ہو سکتی ہے۔ \nحمایت کے لیے ان لوگوں کی طرف رجوع کریں جن پر آپ اعتماد کرتے ہیں۔ \nجب آپ اضطراب کی خرابی کے ساتھ زندگی گزارتے ہیں، تو یہ آپ کی زندگی \nمیں ایسے لوگوں کو  شامل رکھنے میں مدد کرتا ہے جن پر آپ اعتماد کرتے \nہیں۔ ایسے دوستوں اور معاون گروپوں کو تالش کریں جن کے بارے میں آپ \nجانتے ہیں کہ وہ آپ کے خدشات کو سنیں گے اور مشکل وقت میں آپ کی مدد \nکریں گے۔ \nاگر آپ کو اپنی دماغی صحت کے بارے میں فوری خدشات ہیں تو خودکشی اور \n پر کال کریں یا پیغام بھیجیں۔ 988 بحران کی الئف الئن کو\n\nیہ الئف الئن چوبیس گھنٹے دن رات، مصیبت میں گھرے لوگوں کے لیے مفت اور \nخفیہ مدد فراہم کرتی ہے، اور ریاستہائے متحدہ میں آپ یا آپ کے پیاروں کے لیے \n پر کال کریں اگر آپ یا آپ کا کوئی 911 بحران میں مددکے وسائل فراہم کرتی ہے۔\nجاننے واال فوری خطرے میں ہے یا قریبی ایمرجنسی روم میں جائیں۔\nآپ کو دورانِ حمل اضطراب کے بارے میں کیا \nجاننے کی ضرورت ہے؟ \nاگر آپ حاملہ ہونے کے بارے میں سوچ رہے ہیں، حاملہ ہیں، یا دودھ پال رہی \nہیں، تو آپ کو اپنے ہیلتھ کیئر فراہم کنندہ سے کسی بھی دوائیوں کے بارے \nمیں بات کرنی چاہیے جو آپ پریشانی یا اضطراب کے لیے لے رہی ہیں۔ کچھ \nدوائیں آپ کے غیر پیدائشی بچے کو متاثر کر سکتی ہیں، لیکن دماغی صحت \nکی حالتوں کا عالج نہ کیا جائے تو  یہ بھی غیر پیدائشی بچے کو  متاثر کر سکتا \nہے۔ کچھ دوائیں ماں کے دودھ کے ذریعے بھی آپ کے بچے تک پہنچ سکتی \nہیں۔ اپنے فراہم کنندہ سے اس بارے میں بات کریں کہ آپ اور آپ کے بچے کے \nلیے کون سے عالج محفوظ ہیں۔\nحمل کے دوران یا ایک نئی ماں کے طور پر، آپ بعض اوقات جذبات سے \nمغلوب محسوس کر سکتے ہیں۔ دماغی صحت کی مدد اور وسائل نیشنل میٹرنل \nمینٹل ہیلتھ ہاٹ الئن کے ذریعے دستیاب ہیں۔ یہ مفت، خفیہ اور دن رات چوبیس \n پر 1-833-9-HELP4MOMS (1-833-943-5746) گھنٹے دستیاب ہے۔\nفون کریں یا پیغام بھیجیں۔ \nطبی عالج کے تمام اختیارات کے بارے میں اپنے صحت کی دیکھ بھال فراہم \nکرنے والے سے بات کریں۔ ان کے خطرات اور فوائد پر تبادلہ خیال کریں۔ آپ کا \nفراہم کنندہ یا ڈاکٹر آپ کے تمام سواالت کے جوابات ایک ساتھ دے سکتا ہے، \nآپ فیصلہ کر سکتے ہیں کہ آپ کے لیے کون سا عالج صحیح ہے۔\n آفس آف وومنز ہیلتھ نے تیار کیا ہے۔ یہ معلومات تعلیمی مقاصد کے لیے ہے، اس میں تمام معلومات شامل نہیں ہیں، اور آپ کے FDA یہ حقائق نامہ\nصحت کی دیکھ بھال فراہم کرنے والے سے بات کرنے کی جگہ استعمال نہیں کی جانی چاہیے۔\nخواتین اور پریشانی کے بارے میں مزید جاننے کے لیے، یہاں جائیں: \nwww.fda.gov/womens\nMay 2023صحت کی علامتوں سے بھرا ہوا، ٹانگوں کے لئے، ڈی این اے ہیلکس والی خواتین کی منقش تصویر\nخواتین اور پریشانی\nخواتین اور پریشانی(Urdu)"
+            }
+          },
+          {
+            "id": "5",
+            "score": 0.311577976,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "Algunos efectos secundarios frecuentes \npodrían incluir:\n•  Náuseas y vómitos\n•  Caída de pelo\n•  Diarrea o estreñimiento\n•  Debilidad y cansancio\n•  Fiebre o escalofríos\n•  Recuento bajo de células sanguíneas \nque pudiera ponerlo en mayor riesgo de \ninfecciones o sangrado\n•  Cambios en el sentido del gusto o en el \napetito\n•  Problemas en la piel\n•  Dolor o llagas en la boca\n•  Otros problemas, dependiendo del tipo de \nquimioterapia que reciba\nPreguntas que debe hacer\nEstas son algunas preguntas que \npuede hacer a su médico y al equipo de \nprofesionales que atiende su salud:\n•  ¿Qué medicamentos quimioterapéuticos \nrecibiré?"
+            }
+          },
+          {
+            "id": "6",
+            "score": 0.21874693,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "•  ¿Con qué frecuencia recibiré el \ntratamiento? •  ¿Habrá periodos de descanso entre los \nciclos de tratamiento? •  ¿Cuánto durará mi tratamiento? •  ¿Adónde iré a recibir mi tratamiento? •  ¿Puedo conducir al tratamiento? •  ¿Necesitaré recibir otros tipos de \ntratamiento? •  ¿Qué efectos secundarios podría tener? •  ¿Cómo se tratarán mis efectos secundarios \ny qué puedo hacer al respecto? •  ¿Puedo continuar tomando mis otros \nmedicamentos o suplementos durante el \ntratamiento? •  ¿Cubrirá el  seguro médico mi tratamiento? ¿Cuánto tendré que pagar?"
+            }
+          }
+        ]
+      },
+      "time_ms": 308.52
+    }
+  },
+  "delimiter_xlm": {
+    "¿Cómo funciona la quimioterapia?": {
+      "response": {
+        "namespace": "delimiter_xlm",
+        "matches": [
+          {
+            "id": "3",
+            "score": 0.268244863,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "اس مالقات پر، آپ کا بنیادی نگہداشت کا ڈاکٹر دماغی صحت کی ابتدائی \nاسکریننگ کرے گا۔ وہاں سے، وہ آپ کو دماغی صحت کے ماہر کے پاس بھیج \nسکتے ہیں۔\nاپنی دیکھ بھال میں شامل ہوں۔ اپنے عالمات کے بارے میں کھل کر بات کریں \nاور اپنے اختیارات کو سنیں۔ ان اختیارات پر اپنی رائے دیں جو آپ کو لگتا ہے \nکہ آپ کے لیے موزوں ہو سکتی ہے۔ \nحمایت کے لیے ان لوگوں کی طرف رجوع کریں جن پر آپ اعتماد کرتے ہیں۔ \nجب آپ اضطراب کی خرابی کے ساتھ زندگی گزارتے ہیں، تو یہ آپ کی زندگی \nمیں ایسے لوگوں کو  شامل رکھنے میں مدد کرتا ہے جن پر آپ اعتماد کرتے \nہیں۔ ایسے دوستوں اور معاون گروپوں کو تالش کریں جن کے بارے میں آپ \nجانتے ہیں کہ وہ آپ کے خدشات کو سنیں گے اور مشکل وقت میں آپ کی مدد \nکریں گے۔ \nاگر آپ کو اپنی دماغی صحت کے بارے میں فوری خدشات ہیں تو خودکشی اور \n پر کال کریں یا پیغام بھیجیں۔ 988 بحران کی الئف الئن کو"
+            }
+          },
+          {
+            "id": "4",
+            "score": 0.204171211,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "یہ الئف الئن چوبیس گھنٹے دن رات، مصیبت میں گھرے لوگوں کے لیے مفت اور \nخفیہ مدد فراہم کرتی ہے، اور ریاستہائے متحدہ میں آپ یا آپ کے پیاروں کے لیے \n پر کال کریں اگر آپ یا آپ کا کوئی 911 بحران میں مددکے وسائل فراہم کرتی ہے۔\nجاننے واال فوری خطرے میں ہے یا قریبی ایمرجنسی روم میں جائیں۔\nآپ کو دورانِ حمل اضطراب کے بارے میں کیا \nجاننے کی ضرورت ہے؟ \nاگر آپ حاملہ ہونے کے بارے میں سوچ رہے ہیں، حاملہ ہیں، یا دودھ پال رہی \nہیں، تو آپ کو اپنے ہیلتھ کیئر فراہم کنندہ سے کسی بھی دوائیوں کے بارے \nمیں بات کرنی چاہیے جو آپ پریشانی یا اضطراب کے لیے لے رہی ہیں۔ کچھ \nدوائیں آپ کے غیر پیدائشی بچے کو متاثر کر سکتی ہیں، لیکن دماغی صحت \nکی حالتوں کا عالج نہ کیا جائے تو  یہ بھی غیر پیدائشی بچے کو  متاثر کر سکتا \nہے۔ کچھ دوائیں ماں کے دودھ کے ذریعے بھی آپ کے بچے تک پہنچ سکتی \nہیں۔ اپنے فراہم کنندہ سے اس بارے میں بات کریں کہ آپ اور آپ کے بچے کے \nلیے کون سے عالج محفوظ ہیں۔\nحمل کے دوران یا ایک نئی ماں کے طور پر، آپ بعض اوقات جذبات سے \nمغلوب محسوس کر سکتے ہیں۔ دماغی صحت کی مدد اور وسائل نیشنل میٹرنل \nمینٹل ہیلتھ ہاٹ الئن کے ذریعے دستیاب ہیں۔ یہ مفت، خفیہ اور دن رات چوبیس \n پر 1-833-9-HELP4MOMS (1-833-943-5746) گھنٹے دستیاب ہے۔\nفون کریں یا پیغام بھیجیں۔ \nطبی عالج کے تمام اختیارات کے بارے میں اپنے صحت کی دیکھ بھال فراہم \nکرنے والے سے بات کریں۔ ان کے خطرات اور فوائد پر تبادلہ خیال کریں۔ آپ کا \nفراہم کنندہ یا ڈاکٹر آپ کے تمام سواالت کے جوابات ایک ساتھ دے سکتا ہے، \nآپ فیصلہ کر سکتے ہیں کہ آپ کے لیے کون سا عالج صحیح ہے۔\n آفس آف وومنز ہیلتھ نے تیار کیا ہے۔ یہ معلومات تعلیمی مقاصد کے لیے ہے، اس میں تمام معلومات شامل نہیں ہیں، اور آپ کے FDA یہ حقائق نامہ\nصحت کی دیکھ بھال فراہم کرنے والے سے بات کرنے کی جگہ استعمال نہیں کی جانی چاہیے۔\nخواتین اور پریشانی کے بارے میں مزید جاننے کے لیے، یہاں جائیں: \nwww.fda.gov/womens\nMay 2023صحت کی علامتوں سے بھرا ہوا، ٹانگوں کے لئے، ڈی این اے ہیلکس والی خواتین کی منقش تصویر\nخواتین اور پریشانی\nخواتین اور پریشانی(Urdu)"
+            }
+          },
+          {
+            "id": "0",
+            "score": 0.125162452,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "Logos of HHS and U.S. Food & Drug Administration\nاضطراب کیا ہے؟\n اضطراب کسی صورت حال یا کسی موقعے پر  پریشانی، گبھراہٹ اور خوف کی\n  کیفیت ہے۔ یہ ذہنی دبائو کے نتیجے میں پیدا ہونے واال معمول کا  رد عمل ہے۔\n  اضطراب کام پر چیلینجنگ صورتحال میں ہشیار رہنے میں، امتحان کے وقت\n پڑھائی پر محنت کرنے میں، یا پھر اہم تقریر کے موقعے پر  توجہ مرکوز کرنے\n میں  آ پکی مدد کرتا ہے۔ عام طور پر، یہ آپکو کسی بھی صورت حال سے نمٹنے\n میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ آپکی روز\nمرہ زندگی کو متاٴثر کرنے لگے تو یہ غیر فعال ہو سکتا ہے۔\nاضطراب کا عارضہ کیا ہے؟\n اضطراب کا مرض تب ہوتا ہے جب آپکی بڑھتی ہوئی پریشانی آپکی روزمرہ\n زندگی پر اثرانداز ہونے لگے جیسا کہ کام یا سکول  جانے  یا دوستوں اور\n خاندان کے ساتھ وقت گزارنے میں رکاوٹ ہو۔ اضطراب کا مرض سنگین ذہنی\nبیماری ہے۔\n اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں\n تقریبا چالیس ملین امریکیوں کو متاثر کرتا ہے۔ عورتوں کو زندگی بھر میں یہ\n مرض پیدا ہونے کے امکانات  مردوں کے مقابلے میں دوگنے ہیں۔ اضطراب کا\n مرض قابل عالج ہونے کے باوجود اس سے متاثر ہونے والے صرف سینتیس\nفیصد لوگوں کا ہی عالج ہو پاتا ہے۔\n اضطراب کے امراض کی اہم اقسام کونسی ہیں؟\n اضطراب کے امراض کی اہم اقسام بہت سی ہیں۔ انکی اپنی اپنی خصلتیں ہیں اور\n  وہ لوگوں کو مختلف طریقوں سے متاثر کرتی ہیں۔\n•  \n میں زندگی کے عام معامالت )اضطراب کے عمومی امراض (جی اے ڈی\n کے بارے میں، جیسے کہ خاندان یا آمدنی کے متعلق حد سے بڑھی ہوئی\n تشویش ہونا ہے۔ یہ روزانہ ہو سکتی ہے اور دن گزارنا یا رات کو سونا\n ًمشکل کر سکتی ہے۔  (جی اے ڈی) اور دوسرے اہم ذہنی دباوٴ عموما\nمریض کو اکٹھے متاٴثر کرتے ہیں۔\n•  \n اس میں بار بار اور اچانک گھبراہٹ کے دہشت زدہ ہونے کا عارضہ\n حملے شامل ہیں، جو کہ دہشت کے غیر متوقع احساسات ہیں جو بغیر کسی\n وارننگ کے ہوتے ہیں۔ گھبراہٹ کے حملے اس وقت ہوسکتے ہیں جب\nکوئی براہ راست خطرہ نہ ہو۔\n•  \n کسی چیز کا شدید خوف ہے جس سے کوئی خطرہ نہیں ہے۔ اس فوبیاس\n میں ہوائی سفر کرنا یا لوگوں کے ایک بڑے گروپ کے ارد گرد رہنا شامل\nہو سکتا ہے۔\n اضطراب کے عارضے کی عالمات کیا ہیں؟\n اضطراب کے عارضے کی عالمات  بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ\n سے اور آپ کے اضطراب کے عارضے کی قسم کے لحاظ سے مختلف ہو\n سکتی ہیں۔ عالمات آپ کے زندگی گزارنے اور دوسروں کے ساتھ وقت گزارنے\nکے طریقے پر بھی اثر انداز ہو سکتی ہیں۔\n بے چینی کی بہت سی عالمات ہیں۔ ذیل کی عالمات کئی قسم کے اضطراب کی\n :خرابیوں میں مشترک ہیں\n•  پریشان کن خیاالت یا عقائد\n•  خوف اور خوف کے احساسات\n•  جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی\n•  رویے میں تبدیلیاں جیسے پچھلی عام سرگرمیوں سے گریز کرنا\n اضطراب کے عارضے کی وجہ کیا ہے؟\n کئی عوامل اضطراب کی خرابی کے خطرے کو بڑھا سکتے ہیں۔ وہ ایک عورت\n سے دوسری عورت میں مختلف ہو سکتے ہیں۔ چند عام خطرے والے عوامل میں\n :شامل ہیں\n•  بچپن یا جوانی میں تکلیف دہ واقعات\n•  ماہواری کے دوران ہارمونل تبدیلیاں\n•  اضطراب یا دیگر ذہنی عوارض کی خاندانی تاریخ\n عام عالج کے اختیارات کیا ہیں؟\n کچھ لوگوں کے لیے، عالج سے اضطراب کی عالمات کو کم کرنے میں مدد\n مل سکتی ہے۔ اضطراب کے عالج کی کئی اقسام ہیں جو آپ کو ہر روز اپنی\n :عالمات کو منظم کرنے میں مدد فراہم کرتی ہیں، جیسے\n•  \n )مشاورت (سائیکو تھراپی یا ٹاک تھراپی\n عالج کی اس شکل میں تربیت یافتہ ذہنی صحت کے پیشہ ور سے بات کرنا\n شامل ہے۔ ایک ساتھ مل کر، آپ اپنی پریشانی پر قابو پانے کے لیے کام کر\nسکتے ہیں۔\n•  ادویات\n ادویات اضطراب کی خرابیوں کا عالج نہیں کرتی ہیں لیکن عالمات کو\n دور کرنے میں مدد کر سکتی ہیں۔ صحت کی دیکھ بھال فراہم کرنے والے\n اضطراب کے لیے دوائیں لکھ سکتے ہیں۔ اضطراب کے عوارض سے\n نمٹنے کے لیے استعمال ہونے والی دوائیوں کی سب سے عام مثالیں اینٹی\nڈپریسنٹس، اینٹی اینزائٹی دوائیں (جیسے بینزوڈیازپائنز) اور بیٹا بالکرز ہیں۔\n یہ جاننے کے لیے کہ آپ کے لیے کون سا عالج صحیح ہے اپنے صحت کی\n دیکھ بھال کرنے والے سے بات کریں۔ طبی عالج شروع کرنے یا بند کرنے سے\n پہلے آپ کو اپنے فراہم کنندہ سے خطرات، فوائد اور ضمنی اثرات کے بارے\nمیں بھی بات کرنی چاہیے۔\nخواتین کی صحت کا ایف ڈی اے آفس\nwww.fda.gov/womens \nخواتین اور پریشانی"
+            }
+          }
+        ]
+      },
+      "time_ms": 305.59
+    },
+    "اضطراب کیا ہے؟": {
+      "response": {
+        "namespace": "delimiter_xlm",
+        "matches": [
+          {
+            "id": "0",
+            "score": 0.343804121,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "Logos of HHS and U.S. Food & Drug Administration\nاضطراب کیا ہے؟\n اضطراب کسی صورت حال یا کسی موقعے پر  پریشانی، گبھراہٹ اور خوف کی\n  کیفیت ہے۔ یہ ذہنی دبائو کے نتیجے میں پیدا ہونے واال معمول کا  رد عمل ہے۔\n  اضطراب کام پر چیلینجنگ صورتحال میں ہشیار رہنے میں، امتحان کے وقت\n پڑھائی پر محنت کرنے میں، یا پھر اہم تقریر کے موقعے پر  توجہ مرکوز کرنے\n میں  آ پکی مدد کرتا ہے۔ عام طور پر، یہ آپکو کسی بھی صورت حال سے نمٹنے\n میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ آپکی روز\nمرہ زندگی کو متاٴثر کرنے لگے تو یہ غیر فعال ہو سکتا ہے۔\nاضطراب کا عارضہ کیا ہے؟\n اضطراب کا مرض تب ہوتا ہے جب آپکی بڑھتی ہوئی پریشانی آپکی روزمرہ\n زندگی پر اثرانداز ہونے لگے جیسا کہ کام یا سکول  جانے  یا دوستوں اور\n خاندان کے ساتھ وقت گزارنے میں رکاوٹ ہو۔ اضطراب کا مرض سنگین ذہنی\nبیماری ہے۔\n اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں\n تقریبا چالیس ملین امریکیوں کو متاثر کرتا ہے۔ عورتوں کو زندگی بھر میں یہ\n مرض پیدا ہونے کے امکانات  مردوں کے مقابلے میں دوگنے ہیں۔ اضطراب کا\n مرض قابل عالج ہونے کے باوجود اس سے متاثر ہونے والے صرف سینتیس\nفیصد لوگوں کا ہی عالج ہو پاتا ہے۔\n اضطراب کے امراض کی اہم اقسام کونسی ہیں؟\n اضطراب کے امراض کی اہم اقسام بہت سی ہیں۔ انکی اپنی اپنی خصلتیں ہیں اور\n  وہ لوگوں کو مختلف طریقوں سے متاثر کرتی ہیں۔\n•  \n میں زندگی کے عام معامالت )اضطراب کے عمومی امراض (جی اے ڈی\n کے بارے میں، جیسے کہ خاندان یا آمدنی کے متعلق حد سے بڑھی ہوئی\n تشویش ہونا ہے۔ یہ روزانہ ہو سکتی ہے اور دن گزارنا یا رات کو سونا\n ًمشکل کر سکتی ہے۔  (جی اے ڈی) اور دوسرے اہم ذہنی دباوٴ عموما\nمریض کو اکٹھے متاٴثر کرتے ہیں۔\n•  \n اس میں بار بار اور اچانک گھبراہٹ کے دہشت زدہ ہونے کا عارضہ\n حملے شامل ہیں، جو کہ دہشت کے غیر متوقع احساسات ہیں جو بغیر کسی\n وارننگ کے ہوتے ہیں۔ گھبراہٹ کے حملے اس وقت ہوسکتے ہیں جب\nکوئی براہ راست خطرہ نہ ہو۔\n•  \n کسی چیز کا شدید خوف ہے جس سے کوئی خطرہ نہیں ہے۔ اس فوبیاس\n میں ہوائی سفر کرنا یا لوگوں کے ایک بڑے گروپ کے ارد گرد رہنا شامل\nہو سکتا ہے۔\n اضطراب کے عارضے کی عالمات کیا ہیں؟\n اضطراب کے عارضے کی عالمات  بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ\n سے اور آپ کے اضطراب کے عارضے کی قسم کے لحاظ سے مختلف ہو\n سکتی ہیں۔ عالمات آپ کے زندگی گزارنے اور دوسروں کے ساتھ وقت گزارنے\nکے طریقے پر بھی اثر انداز ہو سکتی ہیں۔\n بے چینی کی بہت سی عالمات ہیں۔ ذیل کی عالمات کئی قسم کے اضطراب کی\n :خرابیوں میں مشترک ہیں\n•  پریشان کن خیاالت یا عقائد\n•  خوف اور خوف کے احساسات\n•  جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی\n•  رویے میں تبدیلیاں جیسے پچھلی عام سرگرمیوں سے گریز کرنا\n اضطراب کے عارضے کی وجہ کیا ہے؟\n کئی عوامل اضطراب کی خرابی کے خطرے کو بڑھا سکتے ہیں۔ وہ ایک عورت\n سے دوسری عورت میں مختلف ہو سکتے ہیں۔ چند عام خطرے والے عوامل میں\n :شامل ہیں\n•  بچپن یا جوانی میں تکلیف دہ واقعات\n•  ماہواری کے دوران ہارمونل تبدیلیاں\n•  اضطراب یا دیگر ذہنی عوارض کی خاندانی تاریخ\n عام عالج کے اختیارات کیا ہیں؟\n کچھ لوگوں کے لیے، عالج سے اضطراب کی عالمات کو کم کرنے میں مدد\n مل سکتی ہے۔ اضطراب کے عالج کی کئی اقسام ہیں جو آپ کو ہر روز اپنی\n :عالمات کو منظم کرنے میں مدد فراہم کرتی ہیں، جیسے\n•  \n )مشاورت (سائیکو تھراپی یا ٹاک تھراپی\n عالج کی اس شکل میں تربیت یافتہ ذہنی صحت کے پیشہ ور سے بات کرنا\n شامل ہے۔ ایک ساتھ مل کر، آپ اپنی پریشانی پر قابو پانے کے لیے کام کر\nسکتے ہیں۔\n•  ادویات\n ادویات اضطراب کی خرابیوں کا عالج نہیں کرتی ہیں لیکن عالمات کو\n دور کرنے میں مدد کر سکتی ہیں۔ صحت کی دیکھ بھال فراہم کرنے والے\n اضطراب کے لیے دوائیں لکھ سکتے ہیں۔ اضطراب کے عوارض سے\n نمٹنے کے لیے استعمال ہونے والی دوائیوں کی سب سے عام مثالیں اینٹی\nڈپریسنٹس، اینٹی اینزائٹی دوائیں (جیسے بینزوڈیازپائنز) اور بیٹا بالکرز ہیں۔\n یہ جاننے کے لیے کہ آپ کے لیے کون سا عالج صحیح ہے اپنے صحت کی\n دیکھ بھال کرنے والے سے بات کریں۔ طبی عالج شروع کرنے یا بند کرنے سے\n پہلے آپ کو اپنے فراہم کنندہ سے خطرات، فوائد اور ضمنی اثرات کے بارے\nمیں بھی بات کرنی چاہیے۔\nخواتین کی صحت کا ایف ڈی اے آفس\nwww.fda.gov/womens \nخواتین اور پریشانی"
+            }
+          },
+          {
+            "id": "1",
+            "score": 0.333911687,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "میری جسمانی صحت کا میری ذہنی صحت پر کیا\n اثر پڑتا ہے؟\nجو لوگ جسمانی طور پر صحت مند نہیں ہیں انہیں ذہنی طور پر صحت مند \nرہنے میں دشواری کا سامنا کرنا پڑ سکتا ہے۔ ذیابیطس یا دل کی بیماری جیسے \nدائمی (طویل مدتی) صحت کے مسائل کے ساتھ رہنے والے لوگوں میں اکثر تناؤ \nاور اضطراب کی اعلی سطح کا امکان زیادہ ہوتا ہے۔ ایک دائمی بیماری ہونے \nکا مطلب ہمیشہ یہ نہیں ہوتا کہ آپ کو ذہنی صحت کی حالت خراب ہو گی جیسے \nاضطراب کی خرابی، لیکن اگر آپ دونوں کے ساتھ جدوجہد کر رہے ہیں تو \nجان لیں کہ آپ اکیلے نہیں ہیں۔ سپورٹ گروپس اور ہیلتھ کیئر پروفیشنلز مدد کر \nسکتے ہیں۔ صحت مند کھانا اور دیگر صحت مند عادات، جیسے ورزش، یوگا، \nیا مراقبہ جسمانی صحت کو بہتر بنانے اور اضطراب کو کم کرنے میں مدد کر \nسکتے ہیں۔\nپکو کیا کرنا چاہیےاگر آپ کو لگتا ہے کہ آپ کو \nانگذائٹی ہے؟ \nصحت کی دیکھ بھال فراہم کرنے والے یا ڈاکٹر سے ملنے کے لیے مالقات"
+            }
+          },
+          {
+            "id": "2",
+            "score": 0.327634752,
+            "metadata": {
+              "embedding_model_name": "stsb-xlm-r-multilingual",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "کا وقت لیں۔"
+            }
+          }
+        ]
+      },
+      "time_ms": 298.39
+    }
+  },
+  "fixed_multilin": {
+    "¿Cómo funciona la quimioterapia?": {
+      "response": {
+        "namespace": "fixed_multilin",
+        "matches": [
+          {
+            "id": "14",
+            "score": 0.76240325,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "ڈاکٹر آپ کے تمام سواالت کے جوابات ایک ساتھ دے سکتا ہے، آپ فیصلہ کر سکتے ہیں کہ آپ کے لیے کون سا عالج صحیح ہے۔ آفس آف وومنز ہیلتھ نے تیار کیا ہے۔ یہ معلومات تعلیمی مقاصد کے لیے ہے، اس میں تمام معلومات شامل نہیں ہیں، اور آپ کے FDA یہ حقائق نامہ صحت کی دیکھ بھال فراہم کرنے والے سے بات کرنے کی جگہ استعمال نہیں کی جانی چاہیے۔ خواتین اور پریشانی کے بارے میں مزید جاننے کے لیے، یہاں جائیں: www.fda.gov/womens May 2023صحت کی علامتوں سے بھرا ہوا، ٹانگوں کے لئے، ڈی این اے ہیلکس والی"
+            }
+          },
+          {
+            "id": "7",
+            "score": 0.755878,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "عام مثالیں اینٹی ڈپریسنٹس، اینٹی اینزائٹی دوائیں (جیسے بینزوڈیازپائنز) اور بیٹا بالکرز ہیں۔ یہ جاننے کے لیے کہ آپ کے لیے کون سا عالج صحیح ہے اپنے صحت کی دیکھ بھال کرنے والے سے بات کریں۔ طبی عالج شروع کرنے یا بند کرنے سے پہلے آپ کو اپنے فراہم کنندہ سے خطرات، فوائد اور ضمنی اثرات کے بارے میں بھی بات کرنی چاہیے۔ خواتین کی صحت کا ایف ڈی اے آفس www.fda.gov/womens خواتین اور پریشانی میری جسمانی صحت کا میری ذہنی صحت پر کیا اثر پڑتا ہے؟ جو لوگ جسمانی طور پر صحت مند نہیں ہیں انہیں ذہنی طور پر"
+            }
+          },
+          {
+            "id": "13",
+            "score": 0.748533964,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "کہ آپ اور آپ کے بچے کے لیے کون سے عالج محفوظ ہیں۔ حمل کے دوران یا ایک نئی ماں کے طور پر، آپ بعض اوقات جذبات سے مغلوب محسوس کر سکتے ہیں۔ دماغی صحت کی مدد اور وسائل نیشنل میٹرنل مینٹل ہیلتھ ہاٹ الئن کے ذریعے دستیاب ہیں۔ یہ مفت، خفیہ اور دن رات چوبیس پر 1-833-9-HELP4MOMS (1-833-943-5746) گھنٹے دستیاب ہے۔ فون کریں یا پیغام بھیجیں۔ طبی عالج کے تمام اختیارات کے بارے میں اپنے صحت کی دیکھ بھال فراہم کرنے والے سے بات کریں۔ ان کے خطرات اور فوائد پر تبادلہ خیال کریں۔ آپ کا فراہم کنندہ یا"
+            }
+          }
+        ]
+      },
+      "time_ms": 1563.92
+    },
+    "اضطراب کیا ہے؟": {
+      "response": {
+        "namespace": "fixed_multilin",
+        "matches": [
+          {
+            "id": "0",
+            "score": 0.901147723,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "Logos of HHS and U.S. Food & Drug Administration اضطراب کیا ہے؟ اضطراب کسی صورت حال یا کسی موقعے پر پریشانی، گبھراہٹ اور خوف کی کیفیت ہے۔ یہ ذہنی دبائو کے نتیجے میں پیدا ہونے واال معمول کا رد عمل ہے۔ اضطراب کام پر چیلینجنگ صورتحال میں ہشیار رہنے میں، امتحان کے وقت پڑھائی پر محنت کرنے میں، یا پھر اہم تقریر کے موقعے پر توجہ مرکوز کرنے میں آ پکی مدد کرتا ہے۔ عام طور پر، یہ آپکو کسی بھی صورت حال سے نمٹنے میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ"
+            }
+          },
+          {
+            "id": "1",
+            "score": 0.87452662,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "آپکی روز مرہ زندگی کو متاٴثر کرنے لگے تو یہ غیر فعال ہو سکتا ہے۔ اضطراب کا عارضہ کیا ہے؟ اضطراب کا مرض تب ہوتا ہے جب آپکی بڑھتی ہوئی پریشانی آپکی روزمرہ زندگی پر اثرانداز ہونے لگے جیسا کہ کام یا سکول جانے یا دوستوں اور خاندان کے ساتھ وقت گزارنے میں رکاوٹ ہو۔ اضطراب کا مرض سنگین ذہنی بیماری ہے۔ اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں تقریبا چالیس ملین امریکیوں کو متاثر کرتا ہے۔ عورتوں کو زندگی بھر میں یہ مرض پیدا ہونے کے امکانات مردوں کے مقابلے میں دوگنے"
+            }
+          },
+          {
+            "id": "2",
+            "score": 0.866712391,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "ہیں۔ اضطراب کا مرض قابل عالج ہونے کے باوجود اس سے متاثر ہونے والے صرف سینتیس فیصد لوگوں کا ہی عالج ہو پاتا ہے۔ اضطراب کے امراض کی اہم اقسام کونسی ہیں؟ اضطراب کے امراض کی اہم اقسام بہت سی ہیں۔ انکی اپنی اپنی خصلتیں ہیں اور وہ لوگوں کو مختلف طریقوں سے متاثر کرتی ہیں۔ • میں زندگی کے عام معامالت )اضطراب کے عمومی امراض (جی اے ڈی کے بارے میں، جیسے کہ خاندان یا آمدنی کے متعلق حد سے بڑھی ہوئی تشویش ہونا ہے۔ یہ روزانہ ہو سکتی ہے اور دن گزارنا یا رات کو سونا ًمشکل کر"
+            }
+          }
+        ]
+      },
+      "time_ms": 380.07
+    }
+  },
+  "overlap_multilin": {
+    "¿Cómo funciona la quimioterapia?": {
+      "response": {
+        "namespace": "overlap_multilin",
+        "matches": [
+          {
+            "id": "9",
+            "score": 0.764075816,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "لیے کون سا عالج صحیح ہے اپنے صحت کی دیکھ بھال کرنے والے سے بات کریں۔ طبی عالج شروع کرنے یا بند کرنے سے پہلے آپ کو اپنے فراہم کنندہ سے خطرات، فوائد اور ضمنی اثرات کے بارے میں بھی بات کرنی چاہیے۔ خواتین کی صحت کا ایف ڈی اے آفس www.fda.gov/womens خواتین اور پریشانی میری جسمانی صحت کا میری ذہنی صحت پر کیا اثر پڑتا ہے؟ جو لوگ جسمانی طور پر صحت مند نہیں ہیں انہیں ذہنی طور پر صحت مند رہنے میں دشواری کا سامنا کرنا پڑ سکتا ہے۔ ذیابیطس یا دل کی بیماری جیسے دائمی (طویل مدتی)"
+            }
+          },
+          {
+            "id": "17",
+            "score": 0.756622,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "دستیاب ہے۔ فون کریں یا پیغام بھیجیں۔ طبی عالج کے تمام اختیارات کے بارے میں اپنے صحت کی دیکھ بھال فراہم کرنے والے سے بات کریں۔ ان کے خطرات اور فوائد پر تبادلہ خیال کریں۔ آپ کا فراہم کنندہ یا ڈاکٹر آپ کے تمام سواالت کے جوابات ایک ساتھ دے سکتا ہے، آپ فیصلہ کر سکتے ہیں کہ آپ کے لیے کون سا عالج صحیح ہے۔ آفس آف وومنز ہیلتھ نے تیار کیا ہے۔ یہ معلومات تعلیمی مقاصد کے لیے ہے، اس میں تمام معلومات شامل نہیں ہیں، اور آپ کے FDA یہ حقائق نامہ صحت کی دیکھ بھال فراہم"
+            }
+          },
+          {
+            "id": "16",
+            "score": 0.751854241,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "دودھ کے ذریعے بھی آپ کے بچے تک پہنچ سکتی ہیں۔ اپنے فراہم کنندہ سے اس بارے میں بات کریں کہ آپ اور آپ کے بچے کے لیے کون سے عالج محفوظ ہیں۔ حمل کے دوران یا ایک نئی ماں کے طور پر، آپ بعض اوقات جذبات سے مغلوب محسوس کر سکتے ہیں۔ دماغی صحت کی مدد اور وسائل نیشنل میٹرنل مینٹل ہیلتھ ہاٹ الئن کے ذریعے دستیاب ہیں۔ یہ مفت، خفیہ اور دن رات چوبیس پر 1-833-9-HELP4MOMS (1-833-943-5746) گھنٹے دستیاب ہے۔ فون کریں یا پیغام بھیجیں۔ طبی عالج کے تمام اختیارات کے بارے میں اپنے صحت کی دیکھ بھال"
+            }
+          }
+        ]
+      },
+      "time_ms": 475.63
+    },
+    "اضطراب کیا ہے؟": {
+      "response": {
+        "namespace": "overlap_multilin",
+        "matches": [
+          {
+            "id": "0",
+            "score": 0.901147723,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "Logos of HHS and U.S. Food & Drug Administration اضطراب کیا ہے؟ اضطراب کسی صورت حال یا کسی موقعے پر پریشانی، گبھراہٹ اور خوف کی کیفیت ہے۔ یہ ذہنی دبائو کے نتیجے میں پیدا ہونے واال معمول کا رد عمل ہے۔ اضطراب کام پر چیلینجنگ صورتحال میں ہشیار رہنے میں، امتحان کے وقت پڑھائی پر محنت کرنے میں، یا پھر اہم تقریر کے موقعے پر توجہ مرکوز کرنے میں آ پکی مدد کرتا ہے۔ عام طور پر، یہ آپکو کسی بھی صورت حال سے نمٹنے میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ"
+            }
+          },
+          {
+            "id": "1",
+            "score": 0.88008678,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "بھی صورت حال سے نمٹنے میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ آپکی روز مرہ زندگی کو متاٴثر کرنے لگے تو یہ غیر فعال ہو سکتا ہے۔ اضطراب کا عارضہ کیا ہے؟ اضطراب کا مرض تب ہوتا ہے جب آپکی بڑھتی ہوئی پریشانی آپکی روزمرہ زندگی پر اثرانداز ہونے لگے جیسا کہ کام یا سکول جانے یا دوستوں اور خاندان کے ساتھ وقت گزارنے میں رکاوٹ ہو۔ اضطراب کا مرض سنگین ذہنی بیماری ہے۔ اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں تقریبا چالیس ملین امریکیوں"
+            }
+          },
+          {
+            "id": "2",
+            "score": 0.87269479,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "بیماری ہے۔ اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں تقریبا چالیس ملین امریکیوں کو متاثر کرتا ہے۔ عورتوں کو زندگی بھر میں یہ مرض پیدا ہونے کے امکانات مردوں کے مقابلے میں دوگنے ہیں۔ اضطراب کا مرض قابل عالج ہونے کے باوجود اس سے متاثر ہونے والے صرف سینتیس فیصد لوگوں کا ہی عالج ہو پاتا ہے۔ اضطراب کے امراض کی اہم اقسام کونسی ہیں؟ اضطراب کے امراض کی اہم اقسام بہت سی ہیں۔ انکی اپنی اپنی خصلتیں ہیں اور وہ لوگوں کو مختلف طریقوں سے متاثر کرتی ہیں۔ • میں زندگی کے"
+            }
+          }
+        ]
+      },
+      "time_ms": 396.03
+    }
+  },
+  "semantic_nltk_multilin": {
+    "¿Cómo funciona la quimioterapia?": {
+      "response": {
+        "namespace": "semantic_nltk_multilin",
+        "matches": [
+          {
+            "id": "2",
+            "score": 0.85089618,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "En algunos tratamientos con quimioterapia, \nes posible que la persona deba ser \ninternada por uno o más días. Solo algunos \ntipos de quimioterapia se pueden \nadministrar en el hogar. ¿Con qué frecuencia se \nadministra la quimioterapia y \ncuánto dura? Como el tratamiento de cada persona \nes diferente, la frecuencia con la que se \nadministra y su duración también pueden \nser diferentes. La quimioterapia a menudo se administra \nen ciclos. Esto significa que la quimioterapia \nse administra y luego le sigue un periodo de \ndescanso."
+            }
+          },
+          {
+            "id": "3",
+            "score": 0.849873483,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "Este periodo de descanso permite \nque el cuerpo se recupere de los efectos \nsecundarios antes de que se administre el \nsiguiente tratamiento. Por ejemplo, se podría administrar la \nquimioterapia uno o más días a la semana, \nseguida de un par de semanas de descanso. El número de días o semanas que dura un \nciclo puede ser diferente y depende del \ntipo de quimioterapia que se administre. El \nnúmero de ciclos de quimioterapia que se \nadministren también puede ser diferente."
+            }
+          },
+          {
+            "id": "6",
+            "score": 0.849401653,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "Algunos efectos secundarios frecuentes \npodrían incluir:\n•  Náuseas y vómitos\n•  Caída de pelo\n•  Diarrea o estreñimiento\n•  Debilidad y cansancio\n•  Fiebre o escalofríos\n•  Recuento bajo de células sanguíneas \nque pudiera ponerlo en mayor riesgo de \ninfecciones o sangrado\n•  Cambios en el sentido del gusto o en el \napetito\n•  Problemas en la piel\n•  Dolor o llagas en la boca\n•  Otros problemas, dependiendo del tipo de \nquimioterapia que reciba\nPreguntas que debe hacer\nEstas son algunas preguntas que \npuede hacer a su médico y al equipo de \nprofesionales que atiende su salud:\n•  ¿Qué medicamentos quimioterapéuticos \nrecibiré?"
+            }
+          }
+        ]
+      },
+      "time_ms": 524.39
+    },
+    "اضطراب کیا ہے؟": {
+      "response": {
+        "namespace": "semantic_nltk_multilin",
+        "matches": [
+          {
+            "id": "1",
+            "score": 0.863780558,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "Logos of HHS and U.S. Food & Drug Administration\nاضطراب کیا ہے؟\n اضطراب کسی صورت حال یا کسی موقعے پر  پریشانی، گبھراہٹ اور خوف کی\n  کیفیت ہے۔ یہ ذہنی دبائو کے نتیجے میں پیدا ہونے واال معمول کا  رد عمل ہے۔\n  اضطراب کام پر چیلینجنگ صورتحال میں ہشیار رہنے میں، امتحان کے وقت\n پڑھائی پر محنت کرنے میں، یا پھر اہم تقریر کے موقعے پر  توجہ مرکوز کرنے\n میں  آ پکی مدد کرتا ہے۔ عام طور پر، یہ آپکو کسی بھی صورت حال سے نمٹنے\n میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ آپکی روز\nمرہ زندگی کو متاٴثر کرنے لگے تو یہ غیر فعال ہو سکتا ہے۔\nاضطراب کا عارضہ کیا ہے؟\n اضطراب کا مرض تب ہوتا ہے جب آپکی بڑھتی ہوئی پریشانی آپکی روزمرہ\n زندگی پر اثرانداز ہونے لگے جیسا کہ کام یا سکول  جانے  یا دوستوں اور\n خاندان کے ساتھ وقت گزارنے میں رکاوٹ ہو۔ اضطراب کا مرض سنگین ذہنی\nبیماری ہے۔\n اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں\n تقریبا چالیس ملین امریکیوں کو متاثر کرتا ہے۔ عورتوں کو زندگی بھر میں یہ\n مرض پیدا ہونے کے امکانات  مردوں کے مقابلے میں دوگنے ہیں۔ اضطراب کا\n مرض قابل عالج ہونے کے باوجود اس سے متاثر ہونے والے صرف سینتیس\nفیصد لوگوں کا ہی عالج ہو پاتا ہے۔\n اضطراب کے امراض کی اہم اقسام کونسی ہیں؟\n اضطراب کے امراض کی اہم اقسام بہت سی ہیں۔ انکی اپنی اپنی خصلتیں ہیں اور\n  وہ لوگوں کو مختلف طریقوں سے متاثر کرتی ہیں۔\n•  \n میں زندگی کے عام معامالت )اضطراب کے عمومی امراض (جی اے ڈی\n کے بارے میں، جیسے کہ خاندان یا آمدنی کے متعلق حد سے بڑھی ہوئی\n تشویش ہونا ہے۔ یہ روزانہ ہو سکتی ہے اور دن گزارنا یا رات کو سونا\n ًمشکل کر سکتی ہے۔  (جی اے ڈی) اور دوسرے اہم ذہنی دباوٴ عموما\nمریض کو اکٹھے متاٴثر کرتے ہیں۔\n•  \n اس میں بار بار اور اچانک گھبراہٹ کے دہشت زدہ ہونے کا عارضہ\n حملے شامل ہیں، جو کہ دہشت کے غیر متوقع احساسات ہیں جو بغیر کسی\n وارننگ کے ہوتے ہیں۔ گھبراہٹ کے حملے اس وقت ہوسکتے ہیں جب\nکوئی براہ راست خطرہ نہ ہو۔\n•  \n کسی چیز کا شدید خوف ہے جس سے کوئی خطرہ نہیں ہے۔ اس فوبیاس\n میں ہوائی سفر کرنا یا لوگوں کے ایک بڑے گروپ کے ارد گرد رہنا شامل\nہو سکتا ہے۔\n اضطراب کے عارضے کی عالمات کیا ہیں؟\n اضطراب کے عارضے کی عالمات  بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ\n سے اور آپ کے اضطراب کے عارضے کی قسم کے لحاظ سے مختلف ہو\n سکتی ہیں۔ عالمات آپ کے زندگی گزارنے اور دوسروں کے ساتھ وقت گزارنے\nکے طریقے پر بھی اثر انداز ہو سکتی ہیں۔\n بے چینی کی بہت سی عالمات ہیں۔ ذیل کی عالمات کئی قسم کے اضطراب کی\n :خرابیوں میں مشترک ہیں\n•  پریشان کن خیاالت یا عقائد\n•  خوف اور خوف کے احساسات\n•  جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی\n•  رویے میں تبدیلیاں جیسے پچھلی عام سرگرمیوں سے گریز کرنا\n اضطراب کے عارضے کی وجہ کیا ہے؟\n کئی عوامل اضطراب کی خرابی کے خطرے کو بڑھا سکتے ہیں۔ وہ ایک عورت\n سے دوسری عورت میں مختلف ہو سکتے ہیں۔ چند عام خطرے والے عوامل میں\n :شامل ہیں\n•  بچپن یا جوانی میں تکلیف دہ واقعات\n•  ماہواری کے دوران ہارمونل تبدیلیاں\n•  اضطراب یا دیگر ذہنی عوارض کی خاندانی تاریخ\n عام عالج کے اختیارات کیا ہیں؟\n کچھ لوگوں کے لیے، عالج سے اضطراب کی عالمات کو کم کرنے میں مدد\n مل سکتی ہے۔ اضطراب کے عالج کی کئی اقسام ہیں جو آپ کو ہر روز اپنی\n :عالمات کو منظم کرنے میں مدد فراہم کرتی ہیں، جیسے\n•  \n )مشاورت (سائیکو تھراپی یا ٹاک تھراپی\n عالج کی اس شکل میں تربیت یافتہ ذہنی صحت کے پیشہ ور سے بات کرنا\n شامل ہے۔ ایک ساتھ مل کر، آپ اپنی پریشانی پر قابو پانے کے لیے کام کر\nسکتے ہیں۔\n•  ادویات\n ادویات اضطراب کی خرابیوں کا عالج نہیں کرتی ہیں لیکن عالمات کو\n دور کرنے میں مدد کر سکتی ہیں۔ صحت کی دیکھ بھال فراہم کرنے والے\n اضطراب کے لیے دوائیں لکھ سکتے ہیں۔ اضطراب کے عوارض سے\n نمٹنے کے لیے استعمال ہونے والی دوائیوں کی سب سے عام مثالیں اینٹی\nڈپریسنٹس، اینٹی اینزائٹی دوائیں (جیسے بینزوڈیازپائنز) اور بیٹا بالکرز ہیں۔\n یہ جاننے کے لیے کہ آپ کے لیے کون سا عالج صحیح ہے اپنے صحت کی\n دیکھ بھال کرنے والے سے بات کریں۔ طبی عالج شروع کرنے یا بند کرنے سے\n پہلے آپ کو اپنے فراہم کنندہ سے خطرات، فوائد اور ضمنی اثرات کے بارے\nمیں بھی بات کرنی چاہیے۔\nخواتین کی صحت کا ایف ڈی اے آفس\nwww.fda.gov/womens \nخواتین اور پریشانی\n\n میری جسمانی صحت کا میری ذہنی صحت پر کیا\n اثر پڑتا ہے؟\nجو لوگ جسمانی طور پر صحت مند نہیں ہیں انہیں ذہنی طور پر صحت مند \nرہنے میں دشواری کا سامنا کرنا پڑ سکتا ہے۔ ذیابیطس یا دل کی بیماری جیسے \nدائمی (طویل مدتی) صحت کے مسائل کے ساتھ رہنے والے لوگوں میں اکثر تناؤ \nاور اضطراب کی اعلی سطح کا امکان زیادہ ہوتا ہے۔ ایک دائمی بیماری ہونے \nکا مطلب ہمیشہ یہ نہیں ہوتا کہ آپ کو ذہنی صحت کی حالت خراب ہو گی جیسے \nاضطراب کی خرابی، لیکن اگر آپ دونوں کے ساتھ جدوجہد کر رہے ہیں تو \nجان لیں کہ آپ اکیلے نہیں ہیں۔ سپورٹ گروپس اور ہیلتھ کیئر پروفیشنلز مدد کر \nسکتے ہیں۔ صحت مند کھانا اور دیگر صحت مند عادات، جیسے ورزش، یوگا، \nیا مراقبہ جسمانی صحت کو بہتر بنانے اور اضطراب کو کم کرنے میں مدد کر \nسکتے ہیں۔\nپکو کیا کرنا چاہیےاگر آپ کو لگتا ہے کہ آپ کو \nانگذائٹی ہے؟ \nصحت کی دیکھ بھال فراہم کرنے والے یا ڈاکٹر سے ملنے کے لیے مالقات \n\nکا وقت لیں۔ \n\nاس مالقات پر، آپ کا بنیادی نگہداشت کا ڈاکٹر دماغی صحت کی ابتدائی \nاسکریننگ کرے گا۔ وہاں سے، وہ آپ کو دماغی صحت کے ماہر کے پاس بھیج \nسکتے ہیں۔\nاپنی دیکھ بھال میں شامل ہوں۔ اپنے عالمات کے بارے میں کھل کر بات کریں \nاور اپنے اختیارات کو سنیں۔ ان اختیارات پر اپنی رائے دیں جو آپ کو لگتا ہے \nکہ آپ کے لیے موزوں ہو سکتی ہے۔ \nحمایت کے لیے ان لوگوں کی طرف رجوع کریں جن پر آپ اعتماد کرتے ہیں۔ \nجب آپ اضطراب کی خرابی کے ساتھ زندگی گزارتے ہیں، تو یہ آپ کی زندگی \nمیں ایسے لوگوں کو  شامل رکھنے میں مدد کرتا ہے جن پر آپ اعتماد کرتے \nہیں۔ ایسے دوستوں اور معاون گروپوں کو تالش کریں جن کے بارے میں آپ \nجانتے ہیں کہ وہ آپ کے خدشات کو سنیں گے اور مشکل وقت میں آپ کی مدد \nکریں گے۔ \nاگر آپ کو اپنی دماغی صحت کے بارے میں فوری خدشات ہیں تو خودکشی اور \n پر کال کریں یا پیغام بھیجیں۔ 988 بحران کی الئف الئن کو\n\nیہ الئف الئن چوبیس گھنٹے دن رات، مصیبت میں گھرے لوگوں کے لیے مفت اور \nخفیہ مدد فراہم کرتی ہے، اور ریاستہائے متحدہ میں آپ یا آپ کے پیاروں کے لیے \n پر کال کریں اگر آپ یا آپ کا کوئی 911 بحران میں مددکے وسائل فراہم کرتی ہے۔\nجاننے واال فوری خطرے میں ہے یا قریبی ایمرجنسی روم میں جائیں۔\nآپ کو دورانِ حمل اضطراب کے بارے میں کیا \nجاننے کی ضرورت ہے؟ \nاگر آپ حاملہ ہونے کے بارے میں سوچ رہے ہیں، حاملہ ہیں، یا دودھ پال رہی \nہیں، تو آپ کو اپنے ہیلتھ کیئر فراہم کنندہ سے کسی بھی دوائیوں کے بارے \nمیں بات کرنی چاہیے جو آپ پریشانی یا اضطراب کے لیے لے رہی ہیں۔ کچھ \nدوائیں آپ کے غیر پیدائشی بچے کو متاثر کر سکتی ہیں، لیکن دماغی صحت \nکی حالتوں کا عالج نہ کیا جائے تو  یہ بھی غیر پیدائشی بچے کو  متاثر کر سکتا \nہے۔ کچھ دوائیں ماں کے دودھ کے ذریعے بھی آپ کے بچے تک پہنچ سکتی \nہیں۔ اپنے فراہم کنندہ سے اس بارے میں بات کریں کہ آپ اور آپ کے بچے کے \nلیے کون سے عالج محفوظ ہیں۔\nحمل کے دوران یا ایک نئی ماں کے طور پر، آپ بعض اوقات جذبات سے \nمغلوب محسوس کر سکتے ہیں۔ دماغی صحت کی مدد اور وسائل نیشنل میٹرنل \nمینٹل ہیلتھ ہاٹ الئن کے ذریعے دستیاب ہیں۔ یہ مفت، خفیہ اور دن رات چوبیس \n پر 1-833-9-HELP4MOMS (1-833-943-5746) گھنٹے دستیاب ہے۔\nفون کریں یا پیغام بھیجیں۔ \nطبی عالج کے تمام اختیارات کے بارے میں اپنے صحت کی دیکھ بھال فراہم \nکرنے والے سے بات کریں۔ ان کے خطرات اور فوائد پر تبادلہ خیال کریں۔ آپ کا \nفراہم کنندہ یا ڈاکٹر آپ کے تمام سواالت کے جوابات ایک ساتھ دے سکتا ہے، \nآپ فیصلہ کر سکتے ہیں کہ آپ کے لیے کون سا عالج صحیح ہے۔\n آفس آف وومنز ہیلتھ نے تیار کیا ہے۔ یہ معلومات تعلیمی مقاصد کے لیے ہے، اس میں تمام معلومات شامل نہیں ہیں، اور آپ کے FDA یہ حقائق نامہ\nصحت کی دیکھ بھال فراہم کرنے والے سے بات کرنے کی جگہ استعمال نہیں کی جانی چاہیے۔\nخواتین اور پریشانی کے بارے میں مزید جاننے کے لیے، یہاں جائیں: \nwww.fda.gov/womens\nMay 2023صحت کی علامتوں سے بھرا ہوا، ٹانگوں کے لئے، ڈی این اے ہیلکس والی خواتین کی منقش تصویر\nخواتین اور پریشانی\nخواتین اور پریشانی(Urdu)"
+            }
+          },
+          {
+            "id": "7",
+            "score": 0.770718098,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "•  ¿Con qué frecuencia recibiré el \ntratamiento? •  ¿Habrá periodos de descanso entre los \nciclos de tratamiento? •  ¿Cuánto durará mi tratamiento? •  ¿Adónde iré a recibir mi tratamiento? •  ¿Puedo conducir al tratamiento? •  ¿Necesitaré recibir otros tipos de \ntratamiento? •  ¿Qué efectos secundarios podría tener? •  ¿Cómo se tratarán mis efectos secundarios \ny qué puedo hacer al respecto? •  ¿Puedo continuar tomando mis otros \nmedicamentos o suplementos durante el \ntratamiento? •  ¿Cubrirá el  seguro médico mi tratamiento? ¿Cuánto tendré que pagar? •  ¿Podré trabajar y hacer mis actividades \nhabituales durante el tratamiento?"
+            }
+          },
+          {
+            "id": "0",
+            "score": 0.764476836,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": ""
+            }
+          }
+        ]
+      },
+      "time_ms": 635.6
+    }
+  },
+  "dynamic_multilin": {
+    "¿Cómo funciona la quimioterapia?": {
+      "response": {
+        "namespace": "dynamic_multilin",
+        "matches": [
+          {
+            "id": "2",
+            "score": 0.862845242,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "Solo algunos \ntipos de quimioterapia se pueden \nadministrar en el hogar. ¿Con qué frecuencia se \nadministra la quimioterapia y \ncuánto dura? Como el tratamiento de cada persona \nes diferente, la frecuencia con la que se \nadministra y su duración también pueden \nser diferentes. La quimioterapia a menudo se administra \nen ciclos. Esto significa que la quimioterapia \nse administra y luego le sigue un periodo de \ndescanso. Este periodo de descanso permite \nque el cuerpo se recupere de los efectos \nsecundarios antes de que se administre el \nsiguiente tratamiento. Por ejemplo, se podría administrar la \nquimioterapia uno o más días a la semana, \nseguida de un par de semanas de descanso."
+            }
+          },
+          {
+            "id": "1",
+            "score": 0.852575719,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "Muchos tipos de quimioterapia se \nadministran como infusión por vía \nintravenosa, o sea en una vena. Otros \ntipos se pueden administrar en forma de \ninyección, o se pueden tomar como un \ncomprimido. La quimioterapia puede ser \nel único tratamiento que se necesita para \nalgunos cánceres. O, algunas veces se \npuede administrar con otros tratamientos \ncomo cirugía, radiación, terapia hormonal, \nterapia dirigida o inmunoterapia. ¿Dónde reciben quimioterapia \nlas personas? Con frecuencia la quimioterapia se \nadministra en una clínica o centro de \ntratamiento para pacientes ambulatorios. En algunos tratamientos con quimioterapia, \nes posible que la persona deba ser \ninternada por uno o más días."
+            }
+          },
+          {
+            "id": "5",
+            "score": 0.849401653,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "Algunos efectos secundarios frecuentes \npodrían incluir:\n•  Náuseas y vómitos\n•  Caída de pelo\n•  Diarrea o estreñimiento\n•  Debilidad y cansancio\n•  Fiebre o escalofríos\n•  Recuento bajo de células sanguíneas \nque pudiera ponerlo en mayor riesgo de \ninfecciones o sangrado\n•  Cambios en el sentido del gusto o en el \napetito\n•  Problemas en la piel\n•  Dolor o llagas en la boca\n•  Otros problemas, dependiendo del tipo de \nquimioterapia que reciba\nPreguntas que debe hacer\nEstas son algunas preguntas que \npuede hacer a su médico y al equipo de \nprofesionales que atiende su salud:\n•  ¿Qué medicamentos quimioterapéuticos \nrecibiré?"
+            }
+          }
+        ]
+      },
+      "time_ms": 450.53
+    },
+    "اضطراب کیا ہے؟": {
+      "response": {
+        "namespace": "dynamic_multilin",
+        "matches": [
+          {
+            "id": "0",
+            "score": 0.863780558,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "Logos of HHS and U.S. Food & Drug Administration\nاضطراب کیا ہے؟\n اضطراب کسی صورت حال یا کسی موقعے پر  پریشانی، گبھراہٹ اور خوف کی\n  کیفیت ہے۔ یہ ذہنی دبائو کے نتیجے میں پیدا ہونے واال معمول کا  رد عمل ہے۔\n  اضطراب کام پر چیلینجنگ صورتحال میں ہشیار رہنے میں، امتحان کے وقت\n پڑھائی پر محنت کرنے میں، یا پھر اہم تقریر کے موقعے پر  توجہ مرکوز کرنے\n میں  آ پکی مدد کرتا ہے۔ عام طور پر، یہ آپکو کسی بھی صورت حال سے نمٹنے\n میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ آپکی روز\nمرہ زندگی کو متاٴثر کرنے لگے تو یہ غیر فعال ہو سکتا ہے۔\nاضطراب کا عارضہ کیا ہے؟\n اضطراب کا مرض تب ہوتا ہے جب آپکی بڑھتی ہوئی پریشانی آپکی روزمرہ\n زندگی پر اثرانداز ہونے لگے جیسا کہ کام یا سکول  جانے  یا دوستوں اور\n خاندان کے ساتھ وقت گزارنے میں رکاوٹ ہو۔ اضطراب کا مرض سنگین ذہنی\nبیماری ہے۔\n اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں\n تقریبا چالیس ملین امریکیوں کو متاثر کرتا ہے۔ عورتوں کو زندگی بھر میں یہ\n مرض پیدا ہونے کے امکانات  مردوں کے مقابلے میں دوگنے ہیں۔ اضطراب کا\n مرض قابل عالج ہونے کے باوجود اس سے متاثر ہونے والے صرف سینتیس\nفیصد لوگوں کا ہی عالج ہو پاتا ہے۔\n اضطراب کے امراض کی اہم اقسام کونسی ہیں؟\n اضطراب کے امراض کی اہم اقسام بہت سی ہیں۔ انکی اپنی اپنی خصلتیں ہیں اور\n  وہ لوگوں کو مختلف طریقوں سے متاثر کرتی ہیں۔\n•  \n میں زندگی کے عام معامالت )اضطراب کے عمومی امراض (جی اے ڈی\n کے بارے میں، جیسے کہ خاندان یا آمدنی کے متعلق حد سے بڑھی ہوئی\n تشویش ہونا ہے۔ یہ روزانہ ہو سکتی ہے اور دن گزارنا یا رات کو سونا\n ًمشکل کر سکتی ہے۔  (جی اے ڈی) اور دوسرے اہم ذہنی دباوٴ عموما\nمریض کو اکٹھے متاٴثر کرتے ہیں۔\n•  \n اس میں بار بار اور اچانک گھبراہٹ کے دہشت زدہ ہونے کا عارضہ\n حملے شامل ہیں، جو کہ دہشت کے غیر متوقع احساسات ہیں جو بغیر کسی\n وارننگ کے ہوتے ہیں۔ گھبراہٹ کے حملے اس وقت ہوسکتے ہیں جب\nکوئی براہ راست خطرہ نہ ہو۔\n•  \n کسی چیز کا شدید خوف ہے جس سے کوئی خطرہ نہیں ہے۔ اس فوبیاس\n میں ہوائی سفر کرنا یا لوگوں کے ایک بڑے گروپ کے ارد گرد رہنا شامل\nہو سکتا ہے۔\n اضطراب کے عارضے کی عالمات کیا ہیں؟\n اضطراب کے عارضے کی عالمات  بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ\n سے اور آپ کے اضطراب کے عارضے کی قسم کے لحاظ سے مختلف ہو\n سکتی ہیں۔ عالمات آپ کے زندگی گزارنے اور دوسروں کے ساتھ وقت گزارنے\nکے طریقے پر بھی اثر انداز ہو سکتی ہیں۔\n بے چینی کی بہت سی عالمات ہیں۔ ذیل کی عالمات کئی قسم کے اضطراب کی\n :خرابیوں میں مشترک ہیں\n•  پریشان کن خیاالت یا عقائد\n•  خوف اور خوف کے احساسات\n•  جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی\n•  رویے میں تبدیلیاں جیسے پچھلی عام سرگرمیوں سے گریز کرنا\n اضطراب کے عارضے کی وجہ کیا ہے؟\n کئی عوامل اضطراب کی خرابی کے خطرے کو بڑھا سکتے ہیں۔ وہ ایک عورت\n سے دوسری عورت میں مختلف ہو سکتے ہیں۔ چند عام خطرے والے عوامل میں\n :شامل ہیں\n•  بچپن یا جوانی میں تکلیف دہ واقعات\n•  ماہواری کے دوران ہارمونل تبدیلیاں\n•  اضطراب یا دیگر ذہنی عوارض کی خاندانی تاریخ\n عام عالج کے اختیارات کیا ہیں؟\n کچھ لوگوں کے لیے، عالج سے اضطراب کی عالمات کو کم کرنے میں مدد\n مل سکتی ہے۔ اضطراب کے عالج کی کئی اقسام ہیں جو آپ کو ہر روز اپنی\n :عالمات کو منظم کرنے میں مدد فراہم کرتی ہیں، جیسے\n•  \n )مشاورت (سائیکو تھراپی یا ٹاک تھراپی\n عالج کی اس شکل میں تربیت یافتہ ذہنی صحت کے پیشہ ور سے بات کرنا\n شامل ہے۔ ایک ساتھ مل کر، آپ اپنی پریشانی پر قابو پانے کے لیے کام کر\nسکتے ہیں۔\n•  ادویات\n ادویات اضطراب کی خرابیوں کا عالج نہیں کرتی ہیں لیکن عالمات کو\n دور کرنے میں مدد کر سکتی ہیں۔ صحت کی دیکھ بھال فراہم کرنے والے\n اضطراب کے لیے دوائیں لکھ سکتے ہیں۔ اضطراب کے عوارض سے\n نمٹنے کے لیے استعمال ہونے والی دوائیوں کی سب سے عام مثالیں اینٹی\nڈپریسنٹس، اینٹی اینزائٹی دوائیں (جیسے بینزوڈیازپائنز) اور بیٹا بالکرز ہیں۔\n یہ جاننے کے لیے کہ آپ کے لیے کون سا عالج صحیح ہے اپنے صحت کی\n دیکھ بھال کرنے والے سے بات کریں۔ طبی عالج شروع کرنے یا بند کرنے سے\n پہلے آپ کو اپنے فراہم کنندہ سے خطرات، فوائد اور ضمنی اثرات کے بارے\nمیں بھی بات کرنی چاہیے۔\nخواتین کی صحت کا ایف ڈی اے آفس\nwww.fda.gov/womens \nخواتین اور پریشانی\n\n میری جسمانی صحت کا میری ذہنی صحت پر کیا\n اثر پڑتا ہے؟\nجو لوگ جسمانی طور پر صحت مند نہیں ہیں انہیں ذہنی طور پر صحت مند \nرہنے میں دشواری کا سامنا کرنا پڑ سکتا ہے۔ ذیابیطس یا دل کی بیماری جیسے \nدائمی (طویل مدتی) صحت کے مسائل کے ساتھ رہنے والے لوگوں میں اکثر تناؤ \nاور اضطراب کی اعلی سطح کا امکان زیادہ ہوتا ہے۔ ایک دائمی بیماری ہونے \nکا مطلب ہمیشہ یہ نہیں ہوتا کہ آپ کو ذہنی صحت کی حالت خراب ہو گی جیسے \nاضطراب کی خرابی، لیکن اگر آپ دونوں کے ساتھ جدوجہد کر رہے ہیں تو \nجان لیں کہ آپ اکیلے نہیں ہیں۔ سپورٹ گروپس اور ہیلتھ کیئر پروفیشنلز مدد کر \nسکتے ہیں۔ صحت مند کھانا اور دیگر صحت مند عادات، جیسے ورزش، یوگا، \nیا مراقبہ جسمانی صحت کو بہتر بنانے اور اضطراب کو کم کرنے میں مدد کر \nسکتے ہیں۔\nپکو کیا کرنا چاہیےاگر آپ کو لگتا ہے کہ آپ کو \nانگذائٹی ہے؟ \nصحت کی دیکھ بھال فراہم کرنے والے یا ڈاکٹر سے ملنے کے لیے مالقات \n\nکا وقت لیں۔ \n\nاس مالقات پر، آپ کا بنیادی نگہداشت کا ڈاکٹر دماغی صحت کی ابتدائی \nاسکریننگ کرے گا۔ وہاں سے، وہ آپ کو دماغی صحت کے ماہر کے پاس بھیج \nسکتے ہیں۔\nاپنی دیکھ بھال میں شامل ہوں۔ اپنے عالمات کے بارے میں کھل کر بات کریں \nاور اپنے اختیارات کو سنیں۔ ان اختیارات پر اپنی رائے دیں جو آپ کو لگتا ہے \nکہ آپ کے لیے موزوں ہو سکتی ہے۔ \nحمایت کے لیے ان لوگوں کی طرف رجوع کریں جن پر آپ اعتماد کرتے ہیں۔ \nجب آپ اضطراب کی خرابی کے ساتھ زندگی گزارتے ہیں، تو یہ آپ کی زندگی \nمیں ایسے لوگوں کو  شامل رکھنے میں مدد کرتا ہے جن پر آپ اعتماد کرتے \nہیں۔ ایسے دوستوں اور معاون گروپوں کو تالش کریں جن کے بارے میں آپ \nجانتے ہیں کہ وہ آپ کے خدشات کو سنیں گے اور مشکل وقت میں آپ کی مدد \nکریں گے۔ \nاگر آپ کو اپنی دماغی صحت کے بارے میں فوری خدشات ہیں تو خودکشی اور \n پر کال کریں یا پیغام بھیجیں۔ 988 بحران کی الئف الئن کو\n\nیہ الئف الئن چوبیس گھنٹے دن رات، مصیبت میں گھرے لوگوں کے لیے مفت اور \nخفیہ مدد فراہم کرتی ہے، اور ریاستہائے متحدہ میں آپ یا آپ کے پیاروں کے لیے \n پر کال کریں اگر آپ یا آپ کا کوئی 911 بحران میں مددکے وسائل فراہم کرتی ہے۔\nجاننے واال فوری خطرے میں ہے یا قریبی ایمرجنسی روم میں جائیں۔\nآپ کو دورانِ حمل اضطراب کے بارے میں کیا \nجاننے کی ضرورت ہے؟ \nاگر آپ حاملہ ہونے کے بارے میں سوچ رہے ہیں، حاملہ ہیں، یا دودھ پال رہی \nہیں، تو آپ کو اپنے ہیلتھ کیئر فراہم کنندہ سے کسی بھی دوائیوں کے بارے \nمیں بات کرنی چاہیے جو آپ پریشانی یا اضطراب کے لیے لے رہی ہیں۔ کچھ \nدوائیں آپ کے غیر پیدائشی بچے کو متاثر کر سکتی ہیں، لیکن دماغی صحت \nکی حالتوں کا عالج نہ کیا جائے تو  یہ بھی غیر پیدائشی بچے کو  متاثر کر سکتا \nہے۔ کچھ دوائیں ماں کے دودھ کے ذریعے بھی آپ کے بچے تک پہنچ سکتی \nہیں۔ اپنے فراہم کنندہ سے اس بارے میں بات کریں کہ آپ اور آپ کے بچے کے \nلیے کون سے عالج محفوظ ہیں۔\nحمل کے دوران یا ایک نئی ماں کے طور پر، آپ بعض اوقات جذبات سے \nمغلوب محسوس کر سکتے ہیں۔ دماغی صحت کی مدد اور وسائل نیشنل میٹرنل \nمینٹل ہیلتھ ہاٹ الئن کے ذریعے دستیاب ہیں۔ یہ مفت، خفیہ اور دن رات چوبیس \n پر 1-833-9-HELP4MOMS (1-833-943-5746) گھنٹے دستیاب ہے۔\nفون کریں یا پیغام بھیجیں۔ \nطبی عالج کے تمام اختیارات کے بارے میں اپنے صحت کی دیکھ بھال فراہم \nکرنے والے سے بات کریں۔ ان کے خطرات اور فوائد پر تبادلہ خیال کریں۔ آپ کا \nفراہم کنندہ یا ڈاکٹر آپ کے تمام سواالت کے جوابات ایک ساتھ دے سکتا ہے، \nآپ فیصلہ کر سکتے ہیں کہ آپ کے لیے کون سا عالج صحیح ہے۔\n آفس آف وومنز ہیلتھ نے تیار کیا ہے۔ یہ معلومات تعلیمی مقاصد کے لیے ہے، اس میں تمام معلومات شامل نہیں ہیں، اور آپ کے FDA یہ حقائق نامہ\nصحت کی دیکھ بھال فراہم کرنے والے سے بات کرنے کی جگہ استعمال نہیں کی جانی چاہیے۔\nخواتین اور پریشانی کے بارے میں مزید جاننے کے لیے، یہاں جائیں: \nwww.fda.gov/womens\nMay 2023صحت کی علامتوں سے بھرا ہوا، ٹانگوں کے لئے، ڈی این اے ہیلکس والی خواتین کی منقش تصویر\nخواتین اور پریشانی\nخواتین اور پریشانی(Urdu)"
+            }
+          },
+          {
+            "id": "6",
+            "score": 0.768508255,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "•  ¿Con qué frecuencia recibiré el \ntratamiento? •  ¿Habrá periodos de descanso entre los \nciclos de tratamiento? •  ¿Cuánto durará mi tratamiento? •  ¿Adónde iré a recibir mi tratamiento? •  ¿Puedo conducir al tratamiento? •  ¿Necesitaré recibir otros tipos de \ntratamiento? •  ¿Qué efectos secundarios podría tener? •  ¿Cómo se tratarán mis efectos secundarios \ny qué puedo hacer al respecto? •  ¿Puedo continuar tomando mis otros \nmedicamentos o suplementos durante el \ntratamiento? •  ¿Cubrirá el  seguro médico mi tratamiento? ¿Cuánto tendré que pagar?"
+            }
+          },
+          {
+            "id": "7",
+            "score": 0.749957263,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "spanish",
+              "source_link": "https://www.cancer.org/content/dam/cancer-org/cancer-control/es/booklets-flyers/chemotherapy-for-cancer.pdf",
+              "text": "•  ¿Podré trabajar y hacer mis actividades \nhabituales durante el tratamiento? •  ¿Qué puedo hacer para cuidarme durante el \ntratamiento? •  ¿Hay algo especial que necesito hacer para \nprotegerme y proteger a otras personas \nmientras recibo tratamiento? •  ¿Cuándo debo llamar al médico o a la \nenfermera? SPANISH\n©2021, Sociedad Americana Contra El Cáncer, Inc. No. 080804\nLos modelos se usaron con propósitos exclusivamente ilustrativos."
+            }
+          }
+        ]
+      },
+      "time_ms": 396.0
+    }
+  },
+  "delimiter_multilin": {
+    "¿Cómo funciona la quimioterapia?": {
+      "response": {
+        "namespace": "delimiter_multilin",
+        "matches": [
+          {
+            "id": "4",
+            "score": 0.765482962,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "یہ الئف الئن چوبیس گھنٹے دن رات، مصیبت میں گھرے لوگوں کے لیے مفت اور \nخفیہ مدد فراہم کرتی ہے، اور ریاستہائے متحدہ میں آپ یا آپ کے پیاروں کے لیے \n پر کال کریں اگر آپ یا آپ کا کوئی 911 بحران میں مددکے وسائل فراہم کرتی ہے۔\nجاننے واال فوری خطرے میں ہے یا قریبی ایمرجنسی روم میں جائیں۔\nآپ کو دورانِ حمل اضطراب کے بارے میں کیا \nجاننے کی ضرورت ہے؟ \nاگر آپ حاملہ ہونے کے بارے میں سوچ رہے ہیں، حاملہ ہیں، یا دودھ پال رہی \nہیں، تو آپ کو اپنے ہیلتھ کیئر فراہم کنندہ سے کسی بھی دوائیوں کے بارے \nمیں بات کرنی چاہیے جو آپ پریشانی یا اضطراب کے لیے لے رہی ہیں۔ کچھ \nدوائیں آپ کے غیر پیدائشی بچے کو متاثر کر سکتی ہیں، لیکن دماغی صحت \nکی حالتوں کا عالج نہ کیا جائے تو  یہ بھی غیر پیدائشی بچے کو  متاثر کر سکتا \nہے۔ کچھ دوائیں ماں کے دودھ کے ذریعے بھی آپ کے بچے تک پہنچ سکتی \nہیں۔ اپنے فراہم کنندہ سے اس بارے میں بات کریں کہ آپ اور آپ کے بچے کے \nلیے کون سے عالج محفوظ ہیں۔\nحمل کے دوران یا ایک نئی ماں کے طور پر، آپ بعض اوقات جذبات سے \nمغلوب محسوس کر سکتے ہیں۔ دماغی صحت کی مدد اور وسائل نیشنل میٹرنل \nمینٹل ہیلتھ ہاٹ الئن کے ذریعے دستیاب ہیں۔ یہ مفت، خفیہ اور دن رات چوبیس \n پر 1-833-9-HELP4MOMS (1-833-943-5746) گھنٹے دستیاب ہے۔\nفون کریں یا پیغام بھیجیں۔ \nطبی عالج کے تمام اختیارات کے بارے میں اپنے صحت کی دیکھ بھال فراہم \nکرنے والے سے بات کریں۔ ان کے خطرات اور فوائد پر تبادلہ خیال کریں۔ آپ کا \nفراہم کنندہ یا ڈاکٹر آپ کے تمام سواالت کے جوابات ایک ساتھ دے سکتا ہے، \nآپ فیصلہ کر سکتے ہیں کہ آپ کے لیے کون سا عالج صحیح ہے۔\n آفس آف وومنز ہیلتھ نے تیار کیا ہے۔ یہ معلومات تعلیمی مقاصد کے لیے ہے، اس میں تمام معلومات شامل نہیں ہیں، اور آپ کے FDA یہ حقائق نامہ\nصحت کی دیکھ بھال فراہم کرنے والے سے بات کرنے کی جگہ استعمال نہیں کی جانی چاہیے۔\nخواتین اور پریشانی کے بارے میں مزید جاننے کے لیے، یہاں جائیں: \nwww.fda.gov/womens\nMay 2023صحت کی علامتوں سے بھرا ہوا، ٹانگوں کے لئے، ڈی این اے ہیلکس والی خواتین کی منقش تصویر\nخواتین اور پریشانی\nخواتین اور پریشانی(Urdu)"
+            }
+          },
+          {
+            "id": "0",
+            "score": 0.736563087,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "Logos of HHS and U.S. Food & Drug Administration\nاضطراب کیا ہے؟\n اضطراب کسی صورت حال یا کسی موقعے پر  پریشانی، گبھراہٹ اور خوف کی\n  کیفیت ہے۔ یہ ذہنی دبائو کے نتیجے میں پیدا ہونے واال معمول کا  رد عمل ہے۔\n  اضطراب کام پر چیلینجنگ صورتحال میں ہشیار رہنے میں، امتحان کے وقت\n پڑھائی پر محنت کرنے میں، یا پھر اہم تقریر کے موقعے پر  توجہ مرکوز کرنے\n میں  آ پکی مدد کرتا ہے۔ عام طور پر، یہ آپکو کسی بھی صورت حال سے نمٹنے\n میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ آپکی روز\nمرہ زندگی کو متاٴثر کرنے لگے تو یہ غیر فعال ہو سکتا ہے۔\nاضطراب کا عارضہ کیا ہے؟\n اضطراب کا مرض تب ہوتا ہے جب آپکی بڑھتی ہوئی پریشانی آپکی روزمرہ\n زندگی پر اثرانداز ہونے لگے جیسا کہ کام یا سکول  جانے  یا دوستوں اور\n خاندان کے ساتھ وقت گزارنے میں رکاوٹ ہو۔ اضطراب کا مرض سنگین ذہنی\nبیماری ہے۔\n اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں\n تقریبا چالیس ملین امریکیوں کو متاثر کرتا ہے۔ عورتوں کو زندگی بھر میں یہ\n مرض پیدا ہونے کے امکانات  مردوں کے مقابلے میں دوگنے ہیں۔ اضطراب کا\n مرض قابل عالج ہونے کے باوجود اس سے متاثر ہونے والے صرف سینتیس\nفیصد لوگوں کا ہی عالج ہو پاتا ہے۔\n اضطراب کے امراض کی اہم اقسام کونسی ہیں؟\n اضطراب کے امراض کی اہم اقسام بہت سی ہیں۔ انکی اپنی اپنی خصلتیں ہیں اور\n  وہ لوگوں کو مختلف طریقوں سے متاثر کرتی ہیں۔\n•  \n میں زندگی کے عام معامالت )اضطراب کے عمومی امراض (جی اے ڈی\n کے بارے میں، جیسے کہ خاندان یا آمدنی کے متعلق حد سے بڑھی ہوئی\n تشویش ہونا ہے۔ یہ روزانہ ہو سکتی ہے اور دن گزارنا یا رات کو سونا\n ًمشکل کر سکتی ہے۔  (جی اے ڈی) اور دوسرے اہم ذہنی دباوٴ عموما\nمریض کو اکٹھے متاٴثر کرتے ہیں۔\n•  \n اس میں بار بار اور اچانک گھبراہٹ کے دہشت زدہ ہونے کا عارضہ\n حملے شامل ہیں، جو کہ دہشت کے غیر متوقع احساسات ہیں جو بغیر کسی\n وارننگ کے ہوتے ہیں۔ گھبراہٹ کے حملے اس وقت ہوسکتے ہیں جب\nکوئی براہ راست خطرہ نہ ہو۔\n•  \n کسی چیز کا شدید خوف ہے جس سے کوئی خطرہ نہیں ہے۔ اس فوبیاس\n میں ہوائی سفر کرنا یا لوگوں کے ایک بڑے گروپ کے ارد گرد رہنا شامل\nہو سکتا ہے۔\n اضطراب کے عارضے کی عالمات کیا ہیں؟\n اضطراب کے عارضے کی عالمات  بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ\n سے اور آپ کے اضطراب کے عارضے کی قسم کے لحاظ سے مختلف ہو\n سکتی ہیں۔ عالمات آپ کے زندگی گزارنے اور دوسروں کے ساتھ وقت گزارنے\nکے طریقے پر بھی اثر انداز ہو سکتی ہیں۔\n بے چینی کی بہت سی عالمات ہیں۔ ذیل کی عالمات کئی قسم کے اضطراب کی\n :خرابیوں میں مشترک ہیں\n•  پریشان کن خیاالت یا عقائد\n•  خوف اور خوف کے احساسات\n•  جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی\n•  رویے میں تبدیلیاں جیسے پچھلی عام سرگرمیوں سے گریز کرنا\n اضطراب کے عارضے کی وجہ کیا ہے؟\n کئی عوامل اضطراب کی خرابی کے خطرے کو بڑھا سکتے ہیں۔ وہ ایک عورت\n سے دوسری عورت میں مختلف ہو سکتے ہیں۔ چند عام خطرے والے عوامل میں\n :شامل ہیں\n•  بچپن یا جوانی میں تکلیف دہ واقعات\n•  ماہواری کے دوران ہارمونل تبدیلیاں\n•  اضطراب یا دیگر ذہنی عوارض کی خاندانی تاریخ\n عام عالج کے اختیارات کیا ہیں؟\n کچھ لوگوں کے لیے، عالج سے اضطراب کی عالمات کو کم کرنے میں مدد\n مل سکتی ہے۔ اضطراب کے عالج کی کئی اقسام ہیں جو آپ کو ہر روز اپنی\n :عالمات کو منظم کرنے میں مدد فراہم کرتی ہیں، جیسے\n•  \n )مشاورت (سائیکو تھراپی یا ٹاک تھراپی\n عالج کی اس شکل میں تربیت یافتہ ذہنی صحت کے پیشہ ور سے بات کرنا\n شامل ہے۔ ایک ساتھ مل کر، آپ اپنی پریشانی پر قابو پانے کے لیے کام کر\nسکتے ہیں۔\n•  ادویات\n ادویات اضطراب کی خرابیوں کا عالج نہیں کرتی ہیں لیکن عالمات کو\n دور کرنے میں مدد کر سکتی ہیں۔ صحت کی دیکھ بھال فراہم کرنے والے\n اضطراب کے لیے دوائیں لکھ سکتے ہیں۔ اضطراب کے عوارض سے\n نمٹنے کے لیے استعمال ہونے والی دوائیوں کی سب سے عام مثالیں اینٹی\nڈپریسنٹس، اینٹی اینزائٹی دوائیں (جیسے بینزوڈیازپائنز) اور بیٹا بالکرز ہیں۔\n یہ جاننے کے لیے کہ آپ کے لیے کون سا عالج صحیح ہے اپنے صحت کی\n دیکھ بھال کرنے والے سے بات کریں۔ طبی عالج شروع کرنے یا بند کرنے سے\n پہلے آپ کو اپنے فراہم کنندہ سے خطرات، فوائد اور ضمنی اثرات کے بارے\nمیں بھی بات کرنی چاہیے۔\nخواتین کی صحت کا ایف ڈی اے آفس\nwww.fda.gov/womens \nخواتین اور پریشانی"
+            }
+          },
+          {
+            "id": "1",
+            "score": 0.735077858,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "میری جسمانی صحت کا میری ذہنی صحت پر کیا\n اثر پڑتا ہے؟\nجو لوگ جسمانی طور پر صحت مند نہیں ہیں انہیں ذہنی طور پر صحت مند \nرہنے میں دشواری کا سامنا کرنا پڑ سکتا ہے۔ ذیابیطس یا دل کی بیماری جیسے \nدائمی (طویل مدتی) صحت کے مسائل کے ساتھ رہنے والے لوگوں میں اکثر تناؤ \nاور اضطراب کی اعلی سطح کا امکان زیادہ ہوتا ہے۔ ایک دائمی بیماری ہونے \nکا مطلب ہمیشہ یہ نہیں ہوتا کہ آپ کو ذہنی صحت کی حالت خراب ہو گی جیسے \nاضطراب کی خرابی، لیکن اگر آپ دونوں کے ساتھ جدوجہد کر رہے ہیں تو \nجان لیں کہ آپ اکیلے نہیں ہیں۔ سپورٹ گروپس اور ہیلتھ کیئر پروفیشنلز مدد کر \nسکتے ہیں۔ صحت مند کھانا اور دیگر صحت مند عادات، جیسے ورزش، یوگا، \nیا مراقبہ جسمانی صحت کو بہتر بنانے اور اضطراب کو کم کرنے میں مدد کر \nسکتے ہیں۔\nپکو کیا کرنا چاہیےاگر آپ کو لگتا ہے کہ آپ کو \nانگذائٹی ہے؟ \nصحت کی دیکھ بھال فراہم کرنے والے یا ڈاکٹر سے ملنے کے لیے مالقات"
+            }
+          }
+        ]
+      },
+      "time_ms": 479.04
+    },
+    "اضطراب کیا ہے؟": {
+      "response": {
+        "namespace": "delimiter_multilin",
+        "matches": [
+          {
+            "id": "0",
+            "score": 0.863780558,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "Logos of HHS and U.S. Food & Drug Administration\nاضطراب کیا ہے؟\n اضطراب کسی صورت حال یا کسی موقعے پر  پریشانی، گبھراہٹ اور خوف کی\n  کیفیت ہے۔ یہ ذہنی دبائو کے نتیجے میں پیدا ہونے واال معمول کا  رد عمل ہے۔\n  اضطراب کام پر چیلینجنگ صورتحال میں ہشیار رہنے میں، امتحان کے وقت\n پڑھائی پر محنت کرنے میں، یا پھر اہم تقریر کے موقعے پر  توجہ مرکوز کرنے\n میں  آ پکی مدد کرتا ہے۔ عام طور پر، یہ آپکو کسی بھی صورت حال سے نمٹنے\n میں مدد کرتا ہے۔ جب صورت حال پر قابو پانا مشکل ہو جائے اور یہ آپکی روز\nمرہ زندگی کو متاٴثر کرنے لگے تو یہ غیر فعال ہو سکتا ہے۔\nاضطراب کا عارضہ کیا ہے؟\n اضطراب کا مرض تب ہوتا ہے جب آپکی بڑھتی ہوئی پریشانی آپکی روزمرہ\n زندگی پر اثرانداز ہونے لگے جیسا کہ کام یا سکول  جانے  یا دوستوں اور\n خاندان کے ساتھ وقت گزارنے میں رکاوٹ ہو۔ اضطراب کا مرض سنگین ذہنی\nبیماری ہے۔\n اضطراب کا مرض امریکہ میں سب سے عام ذہنی عارضہ ہے۔ یہ امریکہ میں\n تقریبا چالیس ملین امریکیوں کو متاثر کرتا ہے۔ عورتوں کو زندگی بھر میں یہ\n مرض پیدا ہونے کے امکانات  مردوں کے مقابلے میں دوگنے ہیں۔ اضطراب کا\n مرض قابل عالج ہونے کے باوجود اس سے متاثر ہونے والے صرف سینتیس\nفیصد لوگوں کا ہی عالج ہو پاتا ہے۔\n اضطراب کے امراض کی اہم اقسام کونسی ہیں؟\n اضطراب کے امراض کی اہم اقسام بہت سی ہیں۔ انکی اپنی اپنی خصلتیں ہیں اور\n  وہ لوگوں کو مختلف طریقوں سے متاثر کرتی ہیں۔\n•  \n میں زندگی کے عام معامالت )اضطراب کے عمومی امراض (جی اے ڈی\n کے بارے میں، جیسے کہ خاندان یا آمدنی کے متعلق حد سے بڑھی ہوئی\n تشویش ہونا ہے۔ یہ روزانہ ہو سکتی ہے اور دن گزارنا یا رات کو سونا\n ًمشکل کر سکتی ہے۔  (جی اے ڈی) اور دوسرے اہم ذہنی دباوٴ عموما\nمریض کو اکٹھے متاٴثر کرتے ہیں۔\n•  \n اس میں بار بار اور اچانک گھبراہٹ کے دہشت زدہ ہونے کا عارضہ\n حملے شامل ہیں، جو کہ دہشت کے غیر متوقع احساسات ہیں جو بغیر کسی\n وارننگ کے ہوتے ہیں۔ گھبراہٹ کے حملے اس وقت ہوسکتے ہیں جب\nکوئی براہ راست خطرہ نہ ہو۔\n•  \n کسی چیز کا شدید خوف ہے جس سے کوئی خطرہ نہیں ہے۔ اس فوبیاس\n میں ہوائی سفر کرنا یا لوگوں کے ایک بڑے گروپ کے ارد گرد رہنا شامل\nہو سکتا ہے۔\n اضطراب کے عارضے کی عالمات کیا ہیں؟\n اضطراب کے عارضے کی عالمات  بہت سی ہو سکتی ہیں۔ وہ فرد کے لحاظ\n سے اور آپ کے اضطراب کے عارضے کی قسم کے لحاظ سے مختلف ہو\n سکتی ہیں۔ عالمات آپ کے زندگی گزارنے اور دوسروں کے ساتھ وقت گزارنے\nکے طریقے پر بھی اثر انداز ہو سکتی ہیں۔\n بے چینی کی بہت سی عالمات ہیں۔ ذیل کی عالمات کئی قسم کے اضطراب کی\n :خرابیوں میں مشترک ہیں\n•  پریشان کن خیاالت یا عقائد\n•  خوف اور خوف کے احساسات\n•  جسمانی عالمات جیسے تیز دل کی دھڑکن یا متلی\n•  رویے میں تبدیلیاں جیسے پچھلی عام سرگرمیوں سے گریز کرنا\n اضطراب کے عارضے کی وجہ کیا ہے؟\n کئی عوامل اضطراب کی خرابی کے خطرے کو بڑھا سکتے ہیں۔ وہ ایک عورت\n سے دوسری عورت میں مختلف ہو سکتے ہیں۔ چند عام خطرے والے عوامل میں\n :شامل ہیں\n•  بچپن یا جوانی میں تکلیف دہ واقعات\n•  ماہواری کے دوران ہارمونل تبدیلیاں\n•  اضطراب یا دیگر ذہنی عوارض کی خاندانی تاریخ\n عام عالج کے اختیارات کیا ہیں؟\n کچھ لوگوں کے لیے، عالج سے اضطراب کی عالمات کو کم کرنے میں مدد\n مل سکتی ہے۔ اضطراب کے عالج کی کئی اقسام ہیں جو آپ کو ہر روز اپنی\n :عالمات کو منظم کرنے میں مدد فراہم کرتی ہیں، جیسے\n•  \n )مشاورت (سائیکو تھراپی یا ٹاک تھراپی\n عالج کی اس شکل میں تربیت یافتہ ذہنی صحت کے پیشہ ور سے بات کرنا\n شامل ہے۔ ایک ساتھ مل کر، آپ اپنی پریشانی پر قابو پانے کے لیے کام کر\nسکتے ہیں۔\n•  ادویات\n ادویات اضطراب کی خرابیوں کا عالج نہیں کرتی ہیں لیکن عالمات کو\n دور کرنے میں مدد کر سکتی ہیں۔ صحت کی دیکھ بھال فراہم کرنے والے\n اضطراب کے لیے دوائیں لکھ سکتے ہیں۔ اضطراب کے عوارض سے\n نمٹنے کے لیے استعمال ہونے والی دوائیوں کی سب سے عام مثالیں اینٹی\nڈپریسنٹس، اینٹی اینزائٹی دوائیں (جیسے بینزوڈیازپائنز) اور بیٹا بالکرز ہیں۔\n یہ جاننے کے لیے کہ آپ کے لیے کون سا عالج صحیح ہے اپنے صحت کی\n دیکھ بھال کرنے والے سے بات کریں۔ طبی عالج شروع کرنے یا بند کرنے سے\n پہلے آپ کو اپنے فراہم کنندہ سے خطرات، فوائد اور ضمنی اثرات کے بارے\nمیں بھی بات کرنی چاہیے۔\nخواتین کی صحت کا ایف ڈی اے آفس\nwww.fda.gov/womens \nخواتین اور پریشانی"
+            }
+          },
+          {
+            "id": "3",
+            "score": 0.81765,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "اس مالقات پر، آپ کا بنیادی نگہداشت کا ڈاکٹر دماغی صحت کی ابتدائی \nاسکریننگ کرے گا۔ وہاں سے، وہ آپ کو دماغی صحت کے ماہر کے پاس بھیج \nسکتے ہیں۔\nاپنی دیکھ بھال میں شامل ہوں۔ اپنے عالمات کے بارے میں کھل کر بات کریں \nاور اپنے اختیارات کو سنیں۔ ان اختیارات پر اپنی رائے دیں جو آپ کو لگتا ہے \nکہ آپ کے لیے موزوں ہو سکتی ہے۔ \nحمایت کے لیے ان لوگوں کی طرف رجوع کریں جن پر آپ اعتماد کرتے ہیں۔ \nجب آپ اضطراب کی خرابی کے ساتھ زندگی گزارتے ہیں، تو یہ آپ کی زندگی \nمیں ایسے لوگوں کو  شامل رکھنے میں مدد کرتا ہے جن پر آپ اعتماد کرتے \nہیں۔ ایسے دوستوں اور معاون گروپوں کو تالش کریں جن کے بارے میں آپ \nجانتے ہیں کہ وہ آپ کے خدشات کو سنیں گے اور مشکل وقت میں آپ کی مدد \nکریں گے۔ \nاگر آپ کو اپنی دماغی صحت کے بارے میں فوری خدشات ہیں تو خودکشی اور \n پر کال کریں یا پیغام بھیجیں۔ 988 بحران کی الئف الئن کو"
+            }
+          },
+          {
+            "id": "1",
+            "score": 0.815104127,
+            "metadata": {
+              "embedding_model_name": "multilingual-e5-large",
+              "lang": "english",
+              "source_link": "https://www.fda.gov/media/173108/download?attachment",
+              "text": "میری جسمانی صحت کا میری ذہنی صحت پر کیا\n اثر پڑتا ہے؟\nجو لوگ جسمانی طور پر صحت مند نہیں ہیں انہیں ذہنی طور پر صحت مند \nرہنے میں دشواری کا سامنا کرنا پڑ سکتا ہے۔ ذیابیطس یا دل کی بیماری جیسے \nدائمی (طویل مدتی) صحت کے مسائل کے ساتھ رہنے والے لوگوں میں اکثر تناؤ \nاور اضطراب کی اعلی سطح کا امکان زیادہ ہوتا ہے۔ ایک دائمی بیماری ہونے \nکا مطلب ہمیشہ یہ نہیں ہوتا کہ آپ کو ذہنی صحت کی حالت خراب ہو گی جیسے \nاضطراب کی خرابی، لیکن اگر آپ دونوں کے ساتھ جدوجہد کر رہے ہیں تو \nجان لیں کہ آپ اکیلے نہیں ہیں۔ سپورٹ گروپس اور ہیلتھ کیئر پروفیشنلز مدد کر \nسکتے ہیں۔ صحت مند کھانا اور دیگر صحت مند عادات، جیسے ورزش، یوگا، \nیا مراقبہ جسمانی صحت کو بہتر بنانے اور اضطراب کو کم کرنے میں مدد کر \nسکتے ہیں۔\nپکو کیا کرنا چاہیےاگر آپ کو لگتا ہے کہ آپ کو \nانگذائٹی ہے؟ \nصحت کی دیکھ بھال فراہم کرنے والے یا ڈاکٹر سے ملنے کے لیے مالقات"
+            }
+          }
+        ]
+      },
+      "time_ms": 404.23
+    }
+  }
+}
